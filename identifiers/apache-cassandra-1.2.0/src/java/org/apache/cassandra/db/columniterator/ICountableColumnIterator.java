@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+db	PACKAGE_IDENTIFIER	false
+columniterator	PACKAGE_IDENTIFIER	false
+ICountableColumnIterator	TYPE_IDENTIFIER	true
+OnDiskAtomIterator	TYPE_IDENTIFIER	false
+getColumnCount	METHOD_IDENTIFIER	true
+reset	METHOD_IDENTIFIER	true

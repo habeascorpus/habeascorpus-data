@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+trace	PACKAGE_IDENTIFIER	false
+TraceListenerEx2	TYPE_IDENTIFIER	true
+TraceListenerEx	TYPE_IDENTIFIER	false
+traceEnd	METHOD_IDENTIFIER	true
+TracerEvent	TYPE_IDENTIFIER	false
+ev	VARIABLE_IDENTIFIER	true

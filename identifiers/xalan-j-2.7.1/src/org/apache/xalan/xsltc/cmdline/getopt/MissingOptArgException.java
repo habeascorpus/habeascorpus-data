@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+xsltc	PACKAGE_IDENTIFIER	false
+cmdline	PACKAGE_IDENTIFIER	false
+getopt	PACKAGE_IDENTIFIER	false
+MissingOptArgException	TYPE_IDENTIFIER	true
+GetOptsException	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+MissingOptArgException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+msg	VARIABLE_IDENTIFIER	true
+msg	VARIABLE_IDENTIFIER	false

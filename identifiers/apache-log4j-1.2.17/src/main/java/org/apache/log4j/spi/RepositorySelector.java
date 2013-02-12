@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+spi	PACKAGE_IDENTIFIER	false
+RepositorySelector	TYPE_IDENTIFIER	true
+LoggerRepository	TYPE_IDENTIFIER	false
+getLoggerRepository	METHOD_IDENTIFIER	true

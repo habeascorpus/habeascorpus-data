@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+highlight	PACKAGE_IDENTIFIER	false
+InvalidTokenOffsetsException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+InvalidTokenOffsetsException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false

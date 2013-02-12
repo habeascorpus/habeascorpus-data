@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+swing	PACKAGE_IDENTIFIER	false
+svg	PACKAGE_IDENTIFIER	false
+LinkActivationListener	TYPE_IDENTIFIER	true
+linkActivated	METHOD_IDENTIFIER	true
+LinkActivationEvent	TYPE_IDENTIFIER	false
+e	VARIABLE_IDENTIFIER	true

@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+w3c	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+DOMImplementation	TYPE_IDENTIFIER	false
+DeferredDOMImplementationImpl	TYPE_IDENTIFIER	true
+DOMImplementationImpl	TYPE_IDENTIFIER	false
+DeferredDOMImplementationImpl	TYPE_IDENTIFIER	false
+singleton	VARIABLE_IDENTIFIER	true
+DeferredDOMImplementationImpl	TYPE_IDENTIFIER	false
+DOMImplementation	TYPE_IDENTIFIER	false
+getDOMImplementation	METHOD_IDENTIFIER	true
+singleton	VARIABLE_IDENTIFIER	false

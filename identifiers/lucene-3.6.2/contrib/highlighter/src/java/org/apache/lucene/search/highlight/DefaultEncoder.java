@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+highlight	PACKAGE_IDENTIFIER	false
+DefaultEncoder	TYPE_IDENTIFIER	true
+Encoder	TYPE_IDENTIFIER	false
+DefaultEncoder	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+encodeText	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+originalText	VARIABLE_IDENTIFIER	true
+originalText	VARIABLE_IDENTIFIER	false

@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+apps	PACKAGE_IDENTIFIER	false
+svgbrowser	PACKAGE_IDENTIFIER	false
+ElementOverlayController	TYPE_IDENTIFIER	true
+isOverlayEnabled	METHOD_IDENTIFIER	true

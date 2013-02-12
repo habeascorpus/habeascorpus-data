@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+gms	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+net	PACKAGE_IDENTIFIER	false
+InetAddress	TYPE_IDENTIFIER	false
+IFailureDetectionEventListener	TYPE_IDENTIFIER	true
+convict	METHOD_IDENTIFIER	true
+InetAddress	TYPE_IDENTIFIER	false
+ep	VARIABLE_IDENTIFIER	true
+phi	VARIABLE_IDENTIFIER	true

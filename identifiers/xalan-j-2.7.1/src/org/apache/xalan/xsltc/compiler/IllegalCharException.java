@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+xsltc	PACKAGE_IDENTIFIER	false
+compiler	PACKAGE_IDENTIFIER	false
+IllegalCharException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+IllegalCharException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+s	VARIABLE_IDENTIFIER	true
+s	VARIABLE_IDENTIFIER	false

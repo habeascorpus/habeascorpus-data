@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+taskdefs	PACKAGE_IDENTIFIER	false
+optional	PACKAGE_IDENTIFIER	false
+junit	PACKAGE_IDENTIFIER	false
+OutErrSummaryJUnitResultFormatter	TYPE_IDENTIFIER	true
+SummaryJUnitResultFormatter	TYPE_IDENTIFIER	false
+OutErrSummaryJUnitResultFormatter	METHOD_IDENTIFIER	false
+setWithOutAndErr	METHOD_IDENTIFIER	false

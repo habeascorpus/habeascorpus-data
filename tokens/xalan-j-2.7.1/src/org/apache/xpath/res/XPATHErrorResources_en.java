@@ -1,0 +1,16 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+xpath	TokenNameIdentifier
+.	TokenNameDOT
+res	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+class	TokenNameclass
+XPATHErrorResources_en	TokenNameIdentifier
+extends	TokenNameextends
+XPATHErrorResources	TokenNameIdentifier
+{	TokenNameLBRACE
+}	TokenNameRBRACE

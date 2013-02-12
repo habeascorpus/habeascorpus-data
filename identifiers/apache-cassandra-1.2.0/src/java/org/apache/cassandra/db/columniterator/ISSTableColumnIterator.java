@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+db	PACKAGE_IDENTIFIER	false
+columniterator	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+sstable	PACKAGE_IDENTIFIER	false
+SSTableReader	TYPE_IDENTIFIER	false
+ISSTableColumnIterator	TYPE_IDENTIFIER	true
+OnDiskAtomIterator	TYPE_IDENTIFIER	false
+SSTableReader	TYPE_IDENTIFIER	false
+getSStable	METHOD_IDENTIFIER	true

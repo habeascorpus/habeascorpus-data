@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+db	PACKAGE_IDENTIFIER	false
+columniterator	PACKAGE_IDENTIFIER	false
+IColumnIteratorFactory	TYPE_IDENTIFIER	true
+OnDiskAtomIterator	TYPE_IDENTIFIER	false
+create	METHOD_IDENTIFIER	true

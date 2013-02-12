@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+templates	PACKAGE_IDENTIFIER	false
+ElemEmpty	TYPE_IDENTIFIER	true
+ElemTemplateElement	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+ElemEmpty	METHOD_IDENTIFIER	false

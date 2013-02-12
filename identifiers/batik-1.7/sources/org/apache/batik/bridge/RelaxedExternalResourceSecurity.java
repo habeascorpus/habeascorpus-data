@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+ParsedURL	TYPE_IDENTIFIER	false
+RelaxedExternalResourceSecurity	TYPE_IDENTIFIER	true
+ExternalResourceSecurity	TYPE_IDENTIFIER	false
+checkLoadExternalResource	METHOD_IDENTIFIER	true
+RelaxedExternalResourceSecurity	METHOD_IDENTIFIER	false
+ParsedURL	TYPE_IDENTIFIER	false
+externalResourceURL	VARIABLE_IDENTIFIER	true
+ParsedURL	TYPE_IDENTIFIER	false
+docURL	VARIABLE_IDENTIFIER	true

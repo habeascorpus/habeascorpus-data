@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+types	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+Iterator	TYPE_IDENTIFIER	false
+ResourceCollection	TYPE_IDENTIFIER	true
+Iterator	TYPE_IDENTIFIER	false
+iterator	METHOD_IDENTIFIER	true
+size	METHOD_IDENTIFIER	true
+isFilesystemOnly	METHOD_IDENTIFIER	true

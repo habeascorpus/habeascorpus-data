@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+InterruptedBridgeException	TYPE_IDENTIFIER	true
+RuntimeException	TYPE_IDENTIFIER	false
+InterruptedBridgeException	METHOD_IDENTIFIER	false

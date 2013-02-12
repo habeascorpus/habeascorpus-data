@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+dispatch	PACKAGE_IDENTIFIER	false
+DispatchTask	TYPE_IDENTIFIER	false
+PickOneTask	TYPE_IDENTIFIER	true
+DispatchTask	TYPE_IDENTIFIER	false
+list	METHOD_IDENTIFIER	true
+BuildException	TYPE_IDENTIFIER	false
+show	METHOD_IDENTIFIER	true
+BuildException	TYPE_IDENTIFIER	false

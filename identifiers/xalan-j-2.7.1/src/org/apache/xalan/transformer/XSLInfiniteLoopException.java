@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+transformer	PACKAGE_IDENTIFIER	false
+XSLInfiniteLoopException	TYPE_IDENTIFIER	true
+XSLInfiniteLoopException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+getMessage	METHOD_IDENTIFIER	true

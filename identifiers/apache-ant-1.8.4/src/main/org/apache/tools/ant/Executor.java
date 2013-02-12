@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+Executor	TYPE_IDENTIFIER	true
+executeTargets	METHOD_IDENTIFIER	true
+Project	TYPE_IDENTIFIER	false
+project	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+targetNames	VARIABLE_IDENTIFIER	true
+BuildException	TYPE_IDENTIFIER	false
+Executor	TYPE_IDENTIFIER	false
+getSubProjectExecutor	METHOD_IDENTIFIER	true

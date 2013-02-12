@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+index	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+FormatPostingsFieldsConsumer	TYPE_IDENTIFIER	true
+FormatPostingsTermsConsumer	TYPE_IDENTIFIER	false
+addField	METHOD_IDENTIFIER	true
+FieldInfo	TYPE_IDENTIFIER	false
+field	VARIABLE_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false
+finish	METHOD_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false

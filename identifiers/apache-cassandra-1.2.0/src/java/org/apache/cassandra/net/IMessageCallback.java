@@ -1,0 +1,6 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+net	PACKAGE_IDENTIFIER	false
+IMessageCallback	TYPE_IDENTIFIER	true
+isLatencyForSnitch	METHOD_IDENTIFIER	true

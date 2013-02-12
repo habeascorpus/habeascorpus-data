@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+classrealm	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+codehaus	PACKAGE_IDENTIFIER	false
+plexus	PACKAGE_IDENTIFIER	false
+classworlds	PACKAGE_IDENTIFIER	false
+realm	PACKAGE_IDENTIFIER	false
+ClassRealm	TYPE_IDENTIFIER	false
+ClassRealmManagerDelegate	TYPE_IDENTIFIER	true
+setupRealm	METHOD_IDENTIFIER	true
+ClassRealm	TYPE_IDENTIFIER	false
+classRealm	VARIABLE_IDENTIFIER	true
+ClassRealmRequest	TYPE_IDENTIFIER	false
+request	VARIABLE_IDENTIFIER	true

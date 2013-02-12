@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+gvt	PACKAGE_IDENTIFIER	false
+renderer	PACKAGE_IDENTIFIER	false
+RendererFactory	TYPE_IDENTIFIER	true
+Renderer	TYPE_IDENTIFIER	false
+createRenderer	METHOD_IDENTIFIER	true

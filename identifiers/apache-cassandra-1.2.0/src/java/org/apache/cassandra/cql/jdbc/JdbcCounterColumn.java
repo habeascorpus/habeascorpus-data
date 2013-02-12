@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+cql	PACKAGE_IDENTIFIER	false
+jdbc	PACKAGE_IDENTIFIER	false
+JdbcCounterColumn	TYPE_IDENTIFIER	true
+JdbcLong	TYPE_IDENTIFIER	false
+JdbcCounterColumn	TYPE_IDENTIFIER	false
+instance	VARIABLE_IDENTIFIER	true
+JdbcCounterColumn	TYPE_IDENTIFIER	false
+JdbcCounterColumn	METHOD_IDENTIFIER	false

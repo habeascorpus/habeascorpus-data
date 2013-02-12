@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+concurrent	PACKAGE_IDENTIFIER	false
+JMXConfigurableThreadPoolExecutorMBean	TYPE_IDENTIFIER	true
+JMXEnabledThreadPoolExecutorMBean	TYPE_IDENTIFIER	false
+setCorePoolSize	METHOD_IDENTIFIER	true
+n	VARIABLE_IDENTIFIER	true
+getCorePoolSize	METHOD_IDENTIFIER	true

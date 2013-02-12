@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+svg12	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+EventListener	TYPE_IDENTIFIER	false
+ContentSelectionChangedListener	TYPE_IDENTIFIER	true
+EventListener	TYPE_IDENTIFIER	false
+contentSelectionChanged	METHOD_IDENTIFIER	true
+ContentSelectionChangedEvent	TYPE_IDENTIFIER	false
+csce	VARIABLE_IDENTIFIER	true

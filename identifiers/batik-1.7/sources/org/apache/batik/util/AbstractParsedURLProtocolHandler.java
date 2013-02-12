@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+AbstractParsedURLProtocolHandler	TYPE_IDENTIFIER	true
+ParsedURLProtocolHandler	TYPE_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+protocol	VARIABLE_IDENTIFIER	true
+AbstractParsedURLProtocolHandler	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+protocol	VARIABLE_IDENTIFIER	true
+protocol	VARIABLE_IDENTIFIER	false
+protocol	VARIABLE_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+getProtocolHandled	METHOD_IDENTIFIER	true
+protocol	VARIABLE_IDENTIFIER	false

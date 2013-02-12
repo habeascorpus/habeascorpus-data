@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+example	PACKAGE_IDENTIFIER	false
+types	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+ProjectComponent	TYPE_IDENTIFIER	false
+TypedefTestType	TYPE_IDENTIFIER	true
+ProjectComponent	TYPE_IDENTIFIER	false

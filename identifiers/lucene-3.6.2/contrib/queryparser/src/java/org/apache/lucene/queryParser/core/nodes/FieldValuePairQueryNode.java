@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+queryParser	PACKAGE_IDENTIFIER	false
+core	PACKAGE_IDENTIFIER	false
+nodes	PACKAGE_IDENTIFIER	false
+FieldValuePairQueryNode	TYPE_IDENTIFIER	true
+T	TYPE_IDENTIFIER	true
+Object	TYPE_IDENTIFIER	false
+FieldableNode	TYPE_IDENTIFIER	false
+ValueQueryNode	TYPE_IDENTIFIER	false
+T	TYPE_IDENTIFIER	false

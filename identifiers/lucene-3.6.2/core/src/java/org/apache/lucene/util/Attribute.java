@@ -1,0 +1,5 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+Attribute	TYPE_IDENTIFIER	true

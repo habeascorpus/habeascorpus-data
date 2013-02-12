@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+zip	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+zip	PACKAGE_IDENTIFIER	false
+ZipException	TYPE_IDENTIFIER	false
+CentralDirectoryParsingZipExtraField	TYPE_IDENTIFIER	true
+ZipExtraField	TYPE_IDENTIFIER	false
+parseFromCentralDirectoryData	METHOD_IDENTIFIER	true
+data	VARIABLE_IDENTIFIER	true
+offset	VARIABLE_IDENTIFIER	true
+length	VARIABLE_IDENTIFIER	true
+ZipException	TYPE_IDENTIFIER	false

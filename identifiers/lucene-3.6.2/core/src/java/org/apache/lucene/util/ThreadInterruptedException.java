@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+ThreadInterruptedException	TYPE_IDENTIFIER	true
+RuntimeException	TYPE_IDENTIFIER	false
+ThreadInterruptedException	METHOD_IDENTIFIER	false
+InterruptedException	TYPE_IDENTIFIER	false
+ie	VARIABLE_IDENTIFIER	true
+ie	VARIABLE_IDENTIFIER	false

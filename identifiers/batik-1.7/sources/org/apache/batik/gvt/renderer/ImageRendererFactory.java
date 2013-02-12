@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+gvt	PACKAGE_IDENTIFIER	false
+renderer	PACKAGE_IDENTIFIER	false
+ImageRendererFactory	TYPE_IDENTIFIER	true
+RendererFactory	TYPE_IDENTIFIER	false
+ImageRenderer	TYPE_IDENTIFIER	false
+createStaticImageRenderer	METHOD_IDENTIFIER	true
+ImageRenderer	TYPE_IDENTIFIER	false
+createDynamicImageRenderer	METHOD_IDENTIFIER	true

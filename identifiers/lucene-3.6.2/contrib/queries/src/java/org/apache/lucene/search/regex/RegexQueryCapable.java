@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+regex	PACKAGE_IDENTIFIER	false
+RegexQueryCapable	TYPE_IDENTIFIER	true
+setRegexImplementation	METHOD_IDENTIFIER	true
+RegexCapabilities	TYPE_IDENTIFIER	false
+impl	VARIABLE_IDENTIFIER	true
+RegexCapabilities	TYPE_IDENTIFIER	false
+getRegexImplementation	METHOD_IDENTIFIER	true

@@ -1,0 +1,17 @@
+com	PACKAGE_IDENTIFIER	false
+klopotek	UNKNOWN_IDENTIFIER	false
+utils	UNKNOWN_IDENTIFIER	false
+log	UNKNOWN_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+sql	PACKAGE_IDENTIFIER	false
+JDBCConnectionHandler	TYPE_IDENTIFIER	true
+Connection	TYPE_IDENTIFIER	false
+getConnection	METHOD_IDENTIFIER	true
+Connection	TYPE_IDENTIFIER	false
+getConnection	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+_url	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+_username	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+_password	VARIABLE_IDENTIFIER	true

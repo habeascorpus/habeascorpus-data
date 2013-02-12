@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+settings	PACKAGE_IDENTIFIER	false
+building	PACKAGE_IDENTIFIER	false
+SettingsProblemCollector	TYPE_IDENTIFIER	true
+add	METHOD_IDENTIFIER	true
+SettingsProblem	TYPE_IDENTIFIER	false
+Severity	TYPE_IDENTIFIER	false
+severity	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+line	VARIABLE_IDENTIFIER	true
+column	VARIABLE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+cause	VARIABLE_IDENTIFIER	true

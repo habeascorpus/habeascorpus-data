@@ -1,0 +1,16 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+xerces	TokenNameIdentifier
+.	TokenNameDOT
+xs	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+interface	TokenNameinterface
+XSTerm	TokenNameIdentifier
+extends	TokenNameextends
+XSObject	TokenNameIdentifier
+{	TokenNameLBRACE
+}	TokenNameRBRACE

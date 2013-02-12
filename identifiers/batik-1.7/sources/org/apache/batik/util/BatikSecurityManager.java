@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+BatikSecurityManager	TYPE_IDENTIFIER	true
+SecurityManager	TYPE_IDENTIFIER	false
+Class	TYPE_IDENTIFIER	false
+getClassContext	METHOD_IDENTIFIER	true
+getClassContext	METHOD_IDENTIFIER	false

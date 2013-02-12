@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+dom3	PACKAGE_IDENTIFIER	false
+as	PACKAGE_IDENTIFIER	false
+DocumentEditAS	TYPE_IDENTIFIER	true
+NodeEditAS	TYPE_IDENTIFIER	false
+getContinuousValidityChecking	METHOD_IDENTIFIER	true
+setContinuousValidityChecking	METHOD_IDENTIFIER	true
+continuousValidityChecking	VARIABLE_IDENTIFIER	true

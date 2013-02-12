@@ -1,0 +1,6 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+NoRepaintRunnable	TYPE_IDENTIFIER	true
+Runnable	TYPE_IDENTIFIER	false

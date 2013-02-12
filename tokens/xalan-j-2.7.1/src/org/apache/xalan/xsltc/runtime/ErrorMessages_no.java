@@ -1,0 +1,157 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+xalan	TokenNameIdentifier
+.	TokenNameDOT
+xsltc	TokenNameIdentifier
+.	TokenNameDOT
+runtime	TokenNameIdentifier
+;	TokenNameSEMICOLON
+import	TokenNameimport
+java	TokenNameIdentifier
+.	TokenNameDOT
+util	TokenNameIdentifier
+.	TokenNameDOT
+ListResourceBundle	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+class	TokenNameclass
+ErrorMessages_no	TokenNameIdentifier
+extends	TokenNameextends
+ListResourceBundle	TokenNameIdentifier
+{	TokenNameLBRACE
+public	TokenNamepublic
+Object	TokenNameIdentifier
+[	TokenNameLBRACKET
+]	TokenNameRBRACKET
+[	TokenNameLBRACKET
+]	TokenNameRBRACKET
+getContents	TokenNameIdentifier
+(	TokenNameLPAREN
+)	TokenNameRPAREN
+{	TokenNameLBRACE
+return	TokenNamereturn
+new	TokenNamenew
+Object	TokenNameIdentifier
+[	TokenNameLBRACKET
+]	TokenNameRBRACKET
+[	TokenNameLBRACKET
+]	TokenNameRBRACKET
+{	TokenNameLBRACE
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+RUN_TIME_INTERNAL_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Intern programfeil i ''{0}''"	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+RUN_TIME_COPY_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Programfeil under utføing av <xsl:copy>."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+DATA_CONVERSION_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Ugyldig konvertering av ''{0}'' fra ''{1}''."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+EXTERNAL_FUNC_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Ekstern funksjon ''{0}'' er ikke støttet av XSLTC."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+EQUALITY_EXPR_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Ugyldig argument i EQUALITY uttrykk."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+INVALID_ARGUMENT_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Ugyldig argument ''{0}'' i kall til ''{1}''"	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+FORMAT_NUMBER_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Forsøk på å formattere nummer ''{0}'' med ''{1}''."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+ITERATOR_CLONE_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Kan ikke klone iterator ''{0}''."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+AXIS_SUPPORT_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Iterator for axis ''{0}'' er ikke stèttet."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+TYPED_AXIS_SUPPORT_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Iterator for typet axis ''{0}'' er ikke stèttet."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+STRAY_ATTRIBUTE_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Attributt ''{0}'' utenfor element."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+STRAY_NAMESPACE_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Navnedeklarasjon ''{0}''=''{1}'' utenfor element."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+NAMESPACE_PREFIX_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Prefix ''{0}'' er ikke deklartert."	TokenNameStringLiteral
+}	TokenNameRBRACE
+,	TokenNameCOMMA
+{	TokenNameLBRACE
+BasisLibrary	TokenNameIdentifier
+.	TokenNameDOT
+DOM_ADAPTER_INIT_ERR	TokenNameIdentifier
+,	TokenNameCOMMA
+"Forsøk på å instansiere DOMAdapter med feil type DOM."	TokenNameStringLiteral
+}	TokenNameRBRACE
+}	TokenNameRBRACE
+;	TokenNameSEMICOLON
+}	TokenNameRBRACE
+}	TokenNameRBRACE

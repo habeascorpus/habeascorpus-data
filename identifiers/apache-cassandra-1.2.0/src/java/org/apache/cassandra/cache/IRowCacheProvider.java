@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+cache	PACKAGE_IDENTIFIER	false
+IRowCacheProvider	TYPE_IDENTIFIER	true
+ICache	TYPE_IDENTIFIER	false
+RowCacheKey	TYPE_IDENTIFIER	false
+IRowCacheEntry	TYPE_IDENTIFIER	false
+create	METHOD_IDENTIFIER	true
+capacity	VARIABLE_IDENTIFIER	true

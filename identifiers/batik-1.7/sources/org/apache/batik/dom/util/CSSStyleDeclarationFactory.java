@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+w3c	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+css	PACKAGE_IDENTIFIER	false
+CSSStyleDeclaration	TYPE_IDENTIFIER	false
+CSSStyleDeclarationFactory	TYPE_IDENTIFIER	true
+CSSStyleDeclaration	TYPE_IDENTIFIER	false
+createCSSStyleDeclaration	METHOD_IDENTIFIER	true

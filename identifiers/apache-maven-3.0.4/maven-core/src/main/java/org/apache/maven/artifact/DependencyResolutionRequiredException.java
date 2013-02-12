@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+DependencyResolutionRequiredException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+DependencyResolutionRequiredException	METHOD_IDENTIFIER	false
+Artifact	TYPE_IDENTIFIER	false
+artifact	VARIABLE_IDENTIFIER	true
+artifact	VARIABLE_IDENTIFIER	false

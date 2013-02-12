@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+vectorhighlight	PACKAGE_IDENTIFIER	false
+BoundaryScanner	TYPE_IDENTIFIER	true
+findStartOffset	METHOD_IDENTIFIER	true
+StringBuilder	TYPE_IDENTIFIER	false
+buffer	VARIABLE_IDENTIFIER	true
+start	VARIABLE_IDENTIFIER	true
+findEndOffset	METHOD_IDENTIFIER	true
+StringBuilder	TYPE_IDENTIFIER	false
+buffer	VARIABLE_IDENTIFIER	true
+start	VARIABLE_IDENTIFIER	true

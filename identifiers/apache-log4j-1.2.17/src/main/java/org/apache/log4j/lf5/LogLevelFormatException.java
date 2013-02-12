@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+lf5	PACKAGE_IDENTIFIER	false
+LogLevelFormatException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+LogLevelFormatException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false

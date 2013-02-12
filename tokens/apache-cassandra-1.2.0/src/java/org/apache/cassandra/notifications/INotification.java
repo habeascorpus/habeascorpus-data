@@ -1,0 +1,14 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+cassandra	TokenNameIdentifier
+.	TokenNameDOT
+notifications	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+interface	TokenNameinterface
+INotification	TokenNameIdentifier
+{	TokenNameLBRACE
+}	TokenNameRBRACE

@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+parser	PACKAGE_IDENTIFIER	false
+ClockHandler	TYPE_IDENTIFIER	true
+clockValue	METHOD_IDENTIFIER	true
+clockValue	VARIABLE_IDENTIFIER	true

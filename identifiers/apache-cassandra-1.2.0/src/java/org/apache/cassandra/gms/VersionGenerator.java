@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+gms	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+concurrent	PACKAGE_IDENTIFIER	false
+atomic	PACKAGE_IDENTIFIER	false
+AtomicInteger	TYPE_IDENTIFIER	false
+VersionGenerator	TYPE_IDENTIFIER	true
+AtomicInteger	TYPE_IDENTIFIER	false
+version	VARIABLE_IDENTIFIER	true
+AtomicInteger	TYPE_IDENTIFIER	false
+getNextVersion	METHOD_IDENTIFIER	true
+version	VARIABLE_IDENTIFIER	false
+incrementAndGet	METHOD_IDENTIFIER	false

@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+lf5	PACKAGE_IDENTIFIER	false
+PassingLogRecordFilter	TYPE_IDENTIFIER	true
+LogRecordFilter	TYPE_IDENTIFIER	false
+passes	METHOD_IDENTIFIER	true
+LogRecord	TYPE_IDENTIFIER	false
+record	VARIABLE_IDENTIFIER	true
+reset	METHOD_IDENTIFIER	true

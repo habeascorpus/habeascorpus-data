@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+spell	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+BytesRefIterator	TYPE_IDENTIFIER	false
+Dictionary	TYPE_IDENTIFIER	true
+BytesRefIterator	TYPE_IDENTIFIER	false
+getWordsIterator	METHOD_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false

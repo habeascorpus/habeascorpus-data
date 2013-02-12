@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+parser	PACKAGE_IDENTIFIER	false
+PointsHandler	TYPE_IDENTIFIER	true
+startPoints	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false
+point	METHOD_IDENTIFIER	true
+x	VARIABLE_IDENTIFIER	true
+y	VARIABLE_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false
+endPoints	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false

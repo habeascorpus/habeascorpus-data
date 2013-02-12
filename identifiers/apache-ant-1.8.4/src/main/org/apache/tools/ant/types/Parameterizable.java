@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+types	PACKAGE_IDENTIFIER	false
+Parameterizable	TYPE_IDENTIFIER	true
+setParameters	METHOD_IDENTIFIER	true
+Parameter	TYPE_IDENTIFIER	false
+parameters	VARIABLE_IDENTIFIER	true

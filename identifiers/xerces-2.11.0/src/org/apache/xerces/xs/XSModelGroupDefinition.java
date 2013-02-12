@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xs	PACKAGE_IDENTIFIER	false
+XSModelGroupDefinition	TYPE_IDENTIFIER	true
+XSObject	TYPE_IDENTIFIER	false
+XSModelGroup	TYPE_IDENTIFIER	false
+getModelGroup	METHOD_IDENTIFIER	true
+XSAnnotation	TYPE_IDENTIFIER	false
+getAnnotation	METHOD_IDENTIFIER	true
+XSObjectList	TYPE_IDENTIFIER	false
+getAnnotations	METHOD_IDENTIFIER	true

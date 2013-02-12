@@ -1,0 +1,6 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+spi	PACKAGE_IDENTIFIER	false
+OptionHandler	TYPE_IDENTIFIER	true
+activateOptions	METHOD_IDENTIFIER	true

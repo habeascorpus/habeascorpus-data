@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+parser	PACKAGE_IDENTIFIER	false
+NumberListHandler	TYPE_IDENTIFIER	true
+startNumberList	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false
+endNumberList	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false
+startNumber	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false
+endNumber	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false
+numberValue	METHOD_IDENTIFIER	true
+v	VARIABLE_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false

@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+css	PACKAGE_IDENTIFIER	false
+engine	PACKAGE_IDENTIFIER	false
+CSSEngineListener	TYPE_IDENTIFIER	true
+propertiesChanged	METHOD_IDENTIFIER	true
+CSSEngineEvent	TYPE_IDENTIFIER	false
+evt	VARIABLE_IDENTIFIER	true

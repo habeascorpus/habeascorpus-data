@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+launch	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+Properties	TYPE_IDENTIFIER	false
+AntMain	TYPE_IDENTIFIER	true
+startAnt	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+args	VARIABLE_IDENTIFIER	true
+Properties	TYPE_IDENTIFIER	false
+additionalUserProperties	VARIABLE_IDENTIFIER	true
+ClassLoader	TYPE_IDENTIFIER	false
+coreLoader	VARIABLE_IDENTIFIER	true

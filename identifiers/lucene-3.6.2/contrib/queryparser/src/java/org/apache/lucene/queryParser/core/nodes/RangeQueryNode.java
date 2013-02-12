@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+queryParser	PACKAGE_IDENTIFIER	false
+core	PACKAGE_IDENTIFIER	false
+nodes	PACKAGE_IDENTIFIER	false
+RangeQueryNode	TYPE_IDENTIFIER	true
+T	TYPE_IDENTIFIER	true
+FieldValuePairQueryNode	TYPE_IDENTIFIER	false
+FieldableNode	TYPE_IDENTIFIER	false
+T	TYPE_IDENTIFIER	false
+getLowerBound	METHOD_IDENTIFIER	true
+T	TYPE_IDENTIFIER	false
+getUpperBound	METHOD_IDENTIFIER	true
+isLowerInclusive	METHOD_IDENTIFIER	true
+isUpperInclusive	METHOD_IDENTIFIER	true

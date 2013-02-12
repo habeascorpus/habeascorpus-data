@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+apps	PACKAGE_IDENTIFIER	false
+svgbrowser	PACKAGE_IDENTIFIER	false
+DOMDocumentTreeController	TYPE_IDENTIFIER	true
+isDNDSupported	METHOD_IDENTIFIER	true

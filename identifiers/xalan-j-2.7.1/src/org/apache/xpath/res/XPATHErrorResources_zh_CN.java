@@ -1,0 +1,6 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xpath	PACKAGE_IDENTIFIER	false
+res	PACKAGE_IDENTIFIER	false
+XPATHErrorResources_zh_CN	TYPE_IDENTIFIER	true
+XPATHErrorResources_zh	TYPE_IDENTIFIER	false

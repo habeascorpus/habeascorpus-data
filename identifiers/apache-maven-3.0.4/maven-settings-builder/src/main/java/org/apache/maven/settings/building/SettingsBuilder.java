@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+settings	PACKAGE_IDENTIFIER	false
+building	PACKAGE_IDENTIFIER	false
+SettingsBuilder	TYPE_IDENTIFIER	true
+SettingsBuildingResult	TYPE_IDENTIFIER	false
+build	METHOD_IDENTIFIER	true
+SettingsBuildingRequest	TYPE_IDENTIFIER	false
+request	VARIABLE_IDENTIFIER	true
+SettingsBuildingException	TYPE_IDENTIFIER	false

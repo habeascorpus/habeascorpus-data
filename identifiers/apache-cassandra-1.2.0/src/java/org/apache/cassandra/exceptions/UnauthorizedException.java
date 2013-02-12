@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+exceptions	PACKAGE_IDENTIFIER	false
+UnauthorizedException	TYPE_IDENTIFIER	true
+RequestValidationException	TYPE_IDENTIFIER	false
+UnauthorizedException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+msg	VARIABLE_IDENTIFIER	true
+ExceptionCode	TYPE_IDENTIFIER	false
+UNAUTHORIZED	VARIABLE_IDENTIFIER	false
+msg	VARIABLE_IDENTIFIER	false

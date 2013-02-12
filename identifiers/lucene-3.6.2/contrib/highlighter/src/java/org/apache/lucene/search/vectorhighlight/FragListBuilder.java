@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+vectorhighlight	PACKAGE_IDENTIFIER	false
+FragListBuilder	TYPE_IDENTIFIER	true
+FieldFragList	TYPE_IDENTIFIER	false
+createFieldFragList	METHOD_IDENTIFIER	true
+FieldPhraseList	TYPE_IDENTIFIER	false
+fieldPhraseList	VARIABLE_IDENTIFIER	true
+fragCharSize	VARIABLE_IDENTIFIER	true

@@ -1,0 +1,5 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+parsers	PACKAGE_IDENTIFIER	false
+XML11Configurable	TYPE_IDENTIFIER	true

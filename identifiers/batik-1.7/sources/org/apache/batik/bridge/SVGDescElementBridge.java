@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+SVGDescElementBridge	TYPE_IDENTIFIER	true
+SVGDescriptiveElementBridge	TYPE_IDENTIFIER	false
+SVGDescElementBridge	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+getLocalName	METHOD_IDENTIFIER	true
+SVG_DESC_TAG	VARIABLE_IDENTIFIER	false
+Bridge	TYPE_IDENTIFIER	false
+getInstance	METHOD_IDENTIFIER	true
+SVGDescElementBridge	TYPE_IDENTIFIER	false

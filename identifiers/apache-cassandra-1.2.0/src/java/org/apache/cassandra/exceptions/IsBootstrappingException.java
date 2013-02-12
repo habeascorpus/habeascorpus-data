@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+exceptions	PACKAGE_IDENTIFIER	false
+IsBootstrappingException	TYPE_IDENTIFIER	true
+RequestExecutionException	TYPE_IDENTIFIER	false
+IsBootstrappingException	METHOD_IDENTIFIER	false
+ExceptionCode	TYPE_IDENTIFIER	false
+IS_BOOTSTRAPPING	VARIABLE_IDENTIFIER	false

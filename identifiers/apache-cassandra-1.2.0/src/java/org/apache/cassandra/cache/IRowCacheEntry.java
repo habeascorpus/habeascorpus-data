@@ -1,0 +1,5 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+cache	PACKAGE_IDENTIFIER	false
+IRowCacheEntry	TYPE_IDENTIFIER	true

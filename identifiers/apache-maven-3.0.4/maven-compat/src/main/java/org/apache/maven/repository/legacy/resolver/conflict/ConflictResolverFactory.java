@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+repository	PACKAGE_IDENTIFIER	false
+legacy	PACKAGE_IDENTIFIER	false
+resolver	PACKAGE_IDENTIFIER	false
+conflict	PACKAGE_IDENTIFIER	false
+ConflictResolverFactory	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+ROLE	VARIABLE_IDENTIFIER	true
+ConflictResolverFactory	TYPE_IDENTIFIER	false
+getName	METHOD_IDENTIFIER	false
+ConflictResolver	TYPE_IDENTIFIER	false
+getConflictResolver	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+type	VARIABLE_IDENTIFIER	true
+ConflictResolverNotFoundException	TYPE_IDENTIFIER	false

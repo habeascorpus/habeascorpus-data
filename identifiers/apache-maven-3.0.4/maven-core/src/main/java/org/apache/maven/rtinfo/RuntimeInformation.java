@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+rtinfo	PACKAGE_IDENTIFIER	false
+RuntimeInformation	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getMavenVersion	METHOD_IDENTIFIER	true
+isMavenVersion	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+versionRange	VARIABLE_IDENTIFIER	true

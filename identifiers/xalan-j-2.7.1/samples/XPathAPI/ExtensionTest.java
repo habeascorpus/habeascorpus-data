@@ -1,0 +1,6 @@
+ExtensionTest	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+test	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+name	VARIABLE_IDENTIFIER	true
+name	VARIABLE_IDENTIFIER	false

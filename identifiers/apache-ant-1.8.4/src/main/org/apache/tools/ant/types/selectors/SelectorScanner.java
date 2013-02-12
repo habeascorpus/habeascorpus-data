@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+types	PACKAGE_IDENTIFIER	false
+selectors	PACKAGE_IDENTIFIER	false
+SelectorScanner	TYPE_IDENTIFIER	true
+setSelectors	METHOD_IDENTIFIER	true
+FileSelector	TYPE_IDENTIFIER	false
+selectors	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getDeselectedDirectories	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getDeselectedFiles	METHOD_IDENTIFIER	true

@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+db	PACKAGE_IDENTIFIER	false
+compaction	PACKAGE_IDENTIFIER	false
+CompactionInterruptedException	TYPE_IDENTIFIER	true
+RuntimeException	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+CompactionInterruptedException	METHOD_IDENTIFIER	false
+CompactionInfo	TYPE_IDENTIFIER	false
+info	VARIABLE_IDENTIFIER	true
+info	VARIABLE_IDENTIFIER	false

@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+project	PACKAGE_IDENTIFIER	false
+ProjectDependenciesResolver	TYPE_IDENTIFIER	true
+DependencyResolutionResult	TYPE_IDENTIFIER	false
+resolve	METHOD_IDENTIFIER	true
+DependencyResolutionRequest	TYPE_IDENTIFIER	false
+request	VARIABLE_IDENTIFIER	true
+DependencyResolutionException	TYPE_IDENTIFIER	false

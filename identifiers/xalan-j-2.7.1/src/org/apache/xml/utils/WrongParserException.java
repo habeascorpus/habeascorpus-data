@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xml	PACKAGE_IDENTIFIER	false
+utils	PACKAGE_IDENTIFIER	false
+WrongParserException	TYPE_IDENTIFIER	true
+RuntimeException	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+WrongParserException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false

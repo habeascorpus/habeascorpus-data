@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+resolver	PACKAGE_IDENTIFIER	false
+filter	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+Artifact	TYPE_IDENTIFIER	false
+ArtifactFilter	TYPE_IDENTIFIER	true
+include	METHOD_IDENTIFIER	true
+Artifact	TYPE_IDENTIFIER	false
+artifact	VARIABLE_IDENTIFIER	true

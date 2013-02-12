@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+example	PACKAGE_IDENTIFIER	false
+junit	PACKAGE_IDENTIFIER	false
+junit	PACKAGE_IDENTIFIER	false
+framework	PACKAGE_IDENTIFIER	false
+TestCase	TYPE_IDENTIFIER	false
+MultilineAsserts	TYPE_IDENTIFIER	true
+TestCase	TYPE_IDENTIFIER	false
+testFoo	METHOD_IDENTIFIER	true
+assertTrue	METHOD_IDENTIFIER	false
+testBar	METHOD_IDENTIFIER	true
+assertTrue	METHOD_IDENTIFIER	false
+testFee	METHOD_IDENTIFIER	true
+assertTrue	METHOD_IDENTIFIER	false
+testFie	METHOD_IDENTIFIER	true
+assertTrue	METHOD_IDENTIFIER	false

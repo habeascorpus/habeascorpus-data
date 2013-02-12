@@ -1,0 +1,22 @@
+public	TokenNamepublic
+class	TokenNameclass
+ExtensionTest	TokenNameIdentifier
+{	TokenNameLBRACE
+public	TokenNamepublic
+static	TokenNamestatic
+String	TokenNameIdentifier
+test	TokenNameIdentifier
+(	TokenNameLPAREN
+String	TokenNameIdentifier
+name	TokenNameIdentifier
+)	TokenNameRPAREN
+{	TokenNameLBRACE
+return	TokenNamereturn
+"Hello "	TokenNameStringLiteral
++	TokenNamePLUS
+name	TokenNameIdentifier
++	TokenNamePLUS
+"!"	TokenNameStringLiteral
+;	TokenNameSEMICOLON
+}	TokenNameRBRACE
+}	TokenNameRBRACE

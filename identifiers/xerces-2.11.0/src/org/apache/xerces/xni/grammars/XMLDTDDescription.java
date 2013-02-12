@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xni	PACKAGE_IDENTIFIER	false
+grammars	PACKAGE_IDENTIFIER	false
+XMLDTDDescription	TYPE_IDENTIFIER	true
+XMLGrammarDescription	TYPE_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+getRootName	METHOD_IDENTIFIER	true

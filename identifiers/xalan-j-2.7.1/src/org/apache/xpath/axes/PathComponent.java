@@ -1,0 +1,6 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xpath	PACKAGE_IDENTIFIER	false
+axes	PACKAGE_IDENTIFIER	false
+PathComponent	TYPE_IDENTIFIER	true
+getAnalysisBits	METHOD_IDENTIFIER	true

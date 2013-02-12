@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xml	PACKAGE_IDENTIFIER	false
+utils	PACKAGE_IDENTIFIER	false
+res	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+ListResourceBundle	TYPE_IDENTIFIER	false
+XResourceBundleBase	TYPE_IDENTIFIER	true
+ListResourceBundle	TYPE_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+getMessageKey	METHOD_IDENTIFIER	true
+errorCode	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getWarningKey	METHOD_IDENTIFIER	true
+errorCode	VARIABLE_IDENTIFIER	true

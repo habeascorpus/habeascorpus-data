@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+types	PACKAGE_IDENTIFIER	false
+resources	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+OutputStream	TYPE_IDENTIFIER	false
+Appendable	TYPE_IDENTIFIER	true
+OutputStream	TYPE_IDENTIFIER	false
+getAppendOutputStream	METHOD_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false

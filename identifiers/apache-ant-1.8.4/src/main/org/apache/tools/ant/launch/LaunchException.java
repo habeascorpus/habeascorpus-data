@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+launch	PACKAGE_IDENTIFIER	false
+LaunchException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+LaunchException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false

@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+eventspy	PACKAGE_IDENTIFIER	false
+AbstractEventSpy	TYPE_IDENTIFIER	true
+EventSpy	TYPE_IDENTIFIER	false
+init	METHOD_IDENTIFIER	true
+Context	TYPE_IDENTIFIER	false
+context	VARIABLE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+onEvent	METHOD_IDENTIFIER	true
+Object	TYPE_IDENTIFIER	false
+event	VARIABLE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+close	METHOD_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false

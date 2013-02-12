@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+impl	PACKAGE_IDENTIFIER	false
+dv	PACKAGE_IDENTIFIER	false
+DatatypeValidator	TYPE_IDENTIFIER	true
+validate	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+content	VARIABLE_IDENTIFIER	true
+ValidationContext	TYPE_IDENTIFIER	false
+context	VARIABLE_IDENTIFIER	true
+InvalidDatatypeValueException	TYPE_IDENTIFIER	false

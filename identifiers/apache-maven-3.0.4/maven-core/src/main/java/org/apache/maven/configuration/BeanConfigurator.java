@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+configuration	PACKAGE_IDENTIFIER	false
+BeanConfigurator	TYPE_IDENTIFIER	true
+configureBean	METHOD_IDENTIFIER	true
+BeanConfigurationRequest	TYPE_IDENTIFIER	false
+request	VARIABLE_IDENTIFIER	true
+BeanConfigurationException	TYPE_IDENTIFIER	false

@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+execution	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+versioning	PACKAGE_IDENTIFIER	false
+ArtifactVersion	TYPE_IDENTIFIER	false
+Deprecated	TYPE_IDENTIFIER	false
+RuntimeInformation	TYPE_IDENTIFIER	true
+ArtifactVersion	TYPE_IDENTIFIER	false
+getApplicationVersion	METHOD_IDENTIFIER	true

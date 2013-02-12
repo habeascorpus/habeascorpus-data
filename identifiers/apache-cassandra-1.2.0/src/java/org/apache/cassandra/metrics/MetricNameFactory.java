@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+metrics	PACKAGE_IDENTIFIER	false
+com	PACKAGE_IDENTIFIER	false
+yammer	UNKNOWN_IDENTIFIER	false
+metrics	UNKNOWN_IDENTIFIER	false
+core	UNKNOWN_IDENTIFIER	false
+MetricName	UNKNOWN_IDENTIFIER	false
+MetricNameFactory	TYPE_IDENTIFIER	true
+MetricName	UNKNOWN_IDENTIFIER	false
+createMetricName	UNKNOWN_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+metricName	VARIABLE_IDENTIFIER	true

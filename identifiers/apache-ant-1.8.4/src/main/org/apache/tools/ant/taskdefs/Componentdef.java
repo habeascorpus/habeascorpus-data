@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+taskdefs	PACKAGE_IDENTIFIER	false
+Componentdef	TYPE_IDENTIFIER	true
+Definer	TYPE_IDENTIFIER	false
+Componentdef	METHOD_IDENTIFIER	false
+setRestrict	METHOD_IDENTIFIER	false

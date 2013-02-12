@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+scheduler	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+concurrent	PACKAGE_IDENTIFIER	false
+TimeoutException	TYPE_IDENTIFIER	false
+IRequestScheduler	TYPE_IDENTIFIER	true
+queue	METHOD_IDENTIFIER	true
+Thread	TYPE_IDENTIFIER	false
+t	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+id	VARIABLE_IDENTIFIER	true
+timeoutMS	VARIABLE_IDENTIFIER	true
+TimeoutException	TYPE_IDENTIFIER	false
+release	METHOD_IDENTIFIER	true

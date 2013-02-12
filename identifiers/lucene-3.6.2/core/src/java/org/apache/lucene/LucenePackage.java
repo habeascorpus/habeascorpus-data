@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+LucenePackage	TYPE_IDENTIFIER	true
+LucenePackage	METHOD_IDENTIFIER	false
+Package	TYPE_IDENTIFIER	false
+get	METHOD_IDENTIFIER	true
+LucenePackage	TYPE_IDENTIFIER	false
+getPackage	METHOD_IDENTIFIER	false

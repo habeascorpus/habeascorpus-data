@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+parser	PACKAGE_IDENTIFIER	false
+LengthListHandler	TYPE_IDENTIFIER	true
+LengthHandler	TYPE_IDENTIFIER	false
+startLengthList	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false
+endLengthList	METHOD_IDENTIFIER	true
+ParseException	TYPE_IDENTIFIER	false

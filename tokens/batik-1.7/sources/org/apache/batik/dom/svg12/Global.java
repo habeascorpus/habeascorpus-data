@@ -1,0 +1,16 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+batik	TokenNameIdentifier
+.	TokenNameDOT
+dom	TokenNameIdentifier
+.	TokenNameDOT
+svg12	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+interface	TokenNameinterface
+Global	TokenNameIdentifier
+{	TokenNameLBRACE
+}	TokenNameRBRACE

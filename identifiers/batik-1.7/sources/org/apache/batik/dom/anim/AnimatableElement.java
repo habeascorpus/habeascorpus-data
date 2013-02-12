@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+anim	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+anim	PACKAGE_IDENTIFIER	false
+values	PACKAGE_IDENTIFIER	false
+AnimatableValue	TYPE_IDENTIFIER	false
+AnimatableElement	TYPE_IDENTIFIER	true
+AnimatableValue	TYPE_IDENTIFIER	false
+getUnderlyingValue	METHOD_IDENTIFIER	true

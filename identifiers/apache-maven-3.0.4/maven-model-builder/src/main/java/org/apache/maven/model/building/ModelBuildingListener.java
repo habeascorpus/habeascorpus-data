@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+model	PACKAGE_IDENTIFIER	false
+building	PACKAGE_IDENTIFIER	false
+ModelBuildingListener	TYPE_IDENTIFIER	true
+buildExtensionsAssembled	METHOD_IDENTIFIER	true
+ModelBuildingEvent	TYPE_IDENTIFIER	false
+event	VARIABLE_IDENTIFIER	true

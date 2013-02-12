@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+plugin	PACKAGE_IDENTIFIER	false
+descriptor	PACKAGE_IDENTIFIER	false
+DuplicateParameterException	TYPE_IDENTIFIER	true
+InvalidPluginDescriptorException	TYPE_IDENTIFIER	false
+DuplicateParameterException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false

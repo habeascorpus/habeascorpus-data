@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+notifications	PACKAGE_IDENTIFIER	false
+INotificationConsumer	TYPE_IDENTIFIER	true
+handleNotification	METHOD_IDENTIFIER	true
+INotification	TYPE_IDENTIFIER	false
+notification	VARIABLE_IDENTIFIER	true
+Object	TYPE_IDENTIFIER	false
+sender	VARIABLE_IDENTIFIER	true

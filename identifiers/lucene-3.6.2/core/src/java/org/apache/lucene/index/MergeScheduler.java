@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+index	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+MergeScheduler	TYPE_IDENTIFIER	true
+merge	METHOD_IDENTIFIER	true
+IndexWriter	TYPE_IDENTIFIER	false
+writer	VARIABLE_IDENTIFIER	true
+CorruptIndexException	TYPE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+close	METHOD_IDENTIFIER	true
+CorruptIndexException	TYPE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false

@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xml	PACKAGE_IDENTIFIER	false
+serializer	PACKAGE_IDENTIFIER	false
+utils	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+ListResourceBundle	TYPE_IDENTIFIER	false
+SerializerMessages_zh_CN	TYPE_IDENTIFIER	true
+SerializerMessages_zh	TYPE_IDENTIFIER	false

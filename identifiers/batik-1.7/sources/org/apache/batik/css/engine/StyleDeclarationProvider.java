@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+css	PACKAGE_IDENTIFIER	false
+engine	PACKAGE_IDENTIFIER	false
+StyleDeclarationProvider	TYPE_IDENTIFIER	true
+StyleDeclaration	TYPE_IDENTIFIER	false
+getStyleDeclaration	METHOD_IDENTIFIER	true
+setStyleDeclaration	METHOD_IDENTIFIER	true
+StyleDeclaration	TYPE_IDENTIFIER	false
+sd	VARIABLE_IDENTIFIER	true

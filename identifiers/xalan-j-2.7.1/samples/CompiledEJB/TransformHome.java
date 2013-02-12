@@ -1,0 +1,15 @@
+java	PACKAGE_IDENTIFIER	false
+rmi	PACKAGE_IDENTIFIER	false
+RemoteException	TYPE_IDENTIFIER	false
+javax	PACKAGE_IDENTIFIER	false
+ejb	UNKNOWN_IDENTIFIER	false
+CreateException	UNKNOWN_IDENTIFIER	false
+javax	PACKAGE_IDENTIFIER	false
+ejb	UNKNOWN_IDENTIFIER	false
+EJBHome	UNKNOWN_IDENTIFIER	false
+TransformHome	TYPE_IDENTIFIER	true
+EJBHome	UNKNOWN_IDENTIFIER	false
+TransformRemote	TYPE_IDENTIFIER	false
+create	UNKNOWN_IDENTIFIER	true
+CreateException	UNKNOWN_IDENTIFIER	false
+RemoteException	TYPE_IDENTIFIER	false

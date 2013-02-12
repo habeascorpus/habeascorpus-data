@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+settings	PACKAGE_IDENTIFIER	false
+crypto	PACKAGE_IDENTIFIER	false
+SettingsDecrypter	TYPE_IDENTIFIER	true
+SettingsDecryptionResult	TYPE_IDENTIFIER	false
+decrypt	METHOD_IDENTIFIER	true
+SettingsDecryptionRequest	TYPE_IDENTIFIER	false
+request	VARIABLE_IDENTIFIER	true

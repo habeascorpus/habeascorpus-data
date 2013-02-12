@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+highlight	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+analysis	PACKAGE_IDENTIFIER	false
+TokenStream	TYPE_IDENTIFIER	false
+Fragmenter	TYPE_IDENTIFIER	true
+start	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+originalText	VARIABLE_IDENTIFIER	true
+TokenStream	TYPE_IDENTIFIER	false
+tokenStream	VARIABLE_IDENTIFIER	true
+isNewFragment	METHOD_IDENTIFIER	true

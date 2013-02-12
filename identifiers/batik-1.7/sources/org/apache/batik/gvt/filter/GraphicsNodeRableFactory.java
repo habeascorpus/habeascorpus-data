@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+gvt	PACKAGE_IDENTIFIER	false
+filter	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+gvt	PACKAGE_IDENTIFIER	false
+GraphicsNode	TYPE_IDENTIFIER	false
+GraphicsNodeRableFactory	TYPE_IDENTIFIER	true
+GraphicsNodeRable	TYPE_IDENTIFIER	false
+createGraphicsNodeRable	METHOD_IDENTIFIER	true
+GraphicsNode	TYPE_IDENTIFIER	false
+node	VARIABLE_IDENTIFIER	true

@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xni	PACKAGE_IDENTIFIER	false
+parser	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xni	PACKAGE_IDENTIFIER	false
+XMLDTDContentModelHandler	TYPE_IDENTIFIER	false
+XMLDTDContentModelSource	TYPE_IDENTIFIER	true
+setDTDContentModelHandler	METHOD_IDENTIFIER	true
+XMLDTDContentModelHandler	TYPE_IDENTIFIER	false
+handler	VARIABLE_IDENTIFIER	true
+XMLDTDContentModelHandler	TYPE_IDENTIFIER	false
+getDTDContentModelHandler	METHOD_IDENTIFIER	true

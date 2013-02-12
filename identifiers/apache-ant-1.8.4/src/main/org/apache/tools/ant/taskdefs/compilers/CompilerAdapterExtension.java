@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+taskdefs	PACKAGE_IDENTIFIER	false
+compilers	PACKAGE_IDENTIFIER	false
+CompilerAdapterExtension	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getSupportedFileExtensions	METHOD_IDENTIFIER	true

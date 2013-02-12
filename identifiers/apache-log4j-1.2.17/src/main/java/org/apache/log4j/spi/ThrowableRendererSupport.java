@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+spi	PACKAGE_IDENTIFIER	false
+ThrowableRendererSupport	TYPE_IDENTIFIER	true
+ThrowableRenderer	TYPE_IDENTIFIER	false
+getThrowableRenderer	METHOD_IDENTIFIER	true
+setThrowableRenderer	METHOD_IDENTIFIER	true
+ThrowableRenderer	TYPE_IDENTIFIER	false
+renderer	VARIABLE_IDENTIFIER	true

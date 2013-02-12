@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+index	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+TermPositions	TYPE_IDENTIFIER	true
+TermDocs	TYPE_IDENTIFIER	false
+nextPosition	METHOD_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false
+getPayloadLength	METHOD_IDENTIFIER	true
+getPayload	METHOD_IDENTIFIER	true
+data	VARIABLE_IDENTIFIER	true
+offset	VARIABLE_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false
+isPayloadAvailable	METHOD_IDENTIFIER	true

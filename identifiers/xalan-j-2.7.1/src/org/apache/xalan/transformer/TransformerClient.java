@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+transformer	PACKAGE_IDENTIFIER	false
+TransformerClient	TYPE_IDENTIFIER	true
+setTransformState	METHOD_IDENTIFIER	true
+TransformState	TYPE_IDENTIFIER	false
+ts	VARIABLE_IDENTIFIER	true

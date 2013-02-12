@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+parser	PACKAGE_IDENTIFIER	false
+TimingSpecifierListHandler	TYPE_IDENTIFIER	true
+TimingSpecifierHandler	TYPE_IDENTIFIER	false
+startTimingSpecifierList	METHOD_IDENTIFIER	true
+endTimingSpecifierList	METHOD_IDENTIFIER	true

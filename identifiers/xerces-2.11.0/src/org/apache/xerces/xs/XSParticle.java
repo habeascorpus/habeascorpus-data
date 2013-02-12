@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xs	PACKAGE_IDENTIFIER	false
+XSParticle	TYPE_IDENTIFIER	true
+XSObject	TYPE_IDENTIFIER	false
+getMinOccurs	METHOD_IDENTIFIER	true
+getMaxOccurs	METHOD_IDENTIFIER	true
+getMaxOccursUnbounded	METHOD_IDENTIFIER	true
+XSTerm	TYPE_IDENTIFIER	false
+getTerm	METHOD_IDENTIFIER	true
+XSObjectList	TYPE_IDENTIFIER	false
+getAnnotations	METHOD_IDENTIFIER	true

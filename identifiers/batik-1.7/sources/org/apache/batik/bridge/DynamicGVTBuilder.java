@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+DynamicGVTBuilder	TYPE_IDENTIFIER	true
+GVTBuilder	TYPE_IDENTIFIER	false
+DynamicGVTBuilder	METHOD_IDENTIFIER	false

@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+w3c	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+ElementTraversal	TYPE_IDENTIFIER	true
+Element	TYPE_IDENTIFIER	false
+getFirstElementChild	METHOD_IDENTIFIER	true
+Element	TYPE_IDENTIFIER	false
+getLastElementChild	METHOD_IDENTIFIER	true
+Element	TYPE_IDENTIFIER	false
+getNextElementSibling	METHOD_IDENTIFIER	true
+Element	TYPE_IDENTIFIER	false
+getPreviousElementSibling	METHOD_IDENTIFIER	true
+getChildElementCount	METHOD_IDENTIFIER	true

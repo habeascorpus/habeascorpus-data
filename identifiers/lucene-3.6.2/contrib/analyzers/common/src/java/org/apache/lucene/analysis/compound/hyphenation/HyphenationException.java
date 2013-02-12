@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+analysis	PACKAGE_IDENTIFIER	false
+compound	PACKAGE_IDENTIFIER	false
+hyphenation	PACKAGE_IDENTIFIER	false
+HyphenationException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+HyphenationException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+msg	VARIABLE_IDENTIFIER	true
+msg	VARIABLE_IDENTIFIER	false

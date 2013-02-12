@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+impl	PACKAGE_IDENTIFIER	false
+dv	PACKAGE_IDENTIFIER	false
+DVFactoryException	TYPE_IDENTIFIER	true
+RuntimeException	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+DVFactoryException	METHOD_IDENTIFIER	false
+DVFactoryException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+msg	VARIABLE_IDENTIFIER	true
+msg	VARIABLE_IDENTIFIER	false

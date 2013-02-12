@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xpath	PACKAGE_IDENTIFIER	false
+FoundIndex	TYPE_IDENTIFIER	true
+RuntimeException	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+FoundIndex	METHOD_IDENTIFIER	false

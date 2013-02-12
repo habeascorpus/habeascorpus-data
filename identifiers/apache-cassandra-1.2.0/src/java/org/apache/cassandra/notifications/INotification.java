@@ -1,0 +1,5 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+notifications	PACKAGE_IDENTIFIER	false
+INotification	TYPE_IDENTIFIER	true

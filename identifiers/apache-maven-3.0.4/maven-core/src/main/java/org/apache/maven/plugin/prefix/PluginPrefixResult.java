@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+plugin	PACKAGE_IDENTIFIER	false
+prefix	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+sonatype	UNKNOWN_IDENTIFIER	false
+aether	UNKNOWN_IDENTIFIER	false
+repository	UNKNOWN_IDENTIFIER	false
+ArtifactRepository	UNKNOWN_IDENTIFIER	false
+PluginPrefixResult	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getGroupId	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getArtifactId	METHOD_IDENTIFIER	true
+ArtifactRepository	UNKNOWN_IDENTIFIER	false
+getRepository	UNKNOWN_IDENTIFIER	true

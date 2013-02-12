@@ -1,0 +1,15 @@
+etc	PACKAGE_IDENTIFIER	false
+testcases	PACKAGE_IDENTIFIER	false
+taskdefs	PACKAGE_IDENTIFIER	false
+javadoc	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+ClassToJavadoc	TYPE_IDENTIFIER	true
+methodToJavadoc	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+anArgument	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+toString	METHOD_IDENTIFIER	true
+getClass	METHOD_IDENTIFIER	false
+getName	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+anotherString	METHOD_IDENTIFIER	true

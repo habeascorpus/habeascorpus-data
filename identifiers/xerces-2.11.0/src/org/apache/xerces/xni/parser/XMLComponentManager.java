@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xni	PACKAGE_IDENTIFIER	false
+parser	PACKAGE_IDENTIFIER	false
+XMLComponentManager	TYPE_IDENTIFIER	true
+getFeature	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+featureId	VARIABLE_IDENTIFIER	true
+XMLConfigurationException	TYPE_IDENTIFIER	false
+Object	TYPE_IDENTIFIER	false
+getProperty	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+propertyId	VARIABLE_IDENTIFIER	true
+XMLConfigurationException	TYPE_IDENTIFIER	false

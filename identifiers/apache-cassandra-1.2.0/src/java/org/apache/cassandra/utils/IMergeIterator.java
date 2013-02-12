@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+utils	PACKAGE_IDENTIFIER	false
+IMergeIterator	TYPE_IDENTIFIER	true
+In	TYPE_IDENTIFIER	true
+Out	TYPE_IDENTIFIER	true
+CloseableIterator	TYPE_IDENTIFIER	false
+Out	TYPE_IDENTIFIER	false
+Iterable	TYPE_IDENTIFIER	false
+CloseableIterator	TYPE_IDENTIFIER	false
+In	TYPE_IDENTIFIER	false
+iterators	METHOD_IDENTIFIER	true

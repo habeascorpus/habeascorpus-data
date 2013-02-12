@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xml	PACKAGE_IDENTIFIER	false
+utils	PACKAGE_IDENTIFIER	false
+RawCharacterHandler	TYPE_IDENTIFIER	true
+charactersRaw	METHOD_IDENTIFIER	true
+ch	VARIABLE_IDENTIFIER	true
+start	VARIABLE_IDENTIFIER	true
+length	VARIABLE_IDENTIFIER	true
+javax	PACKAGE_IDENTIFIER	false
+xml	PACKAGE_IDENTIFIER	false
+transform	PACKAGE_IDENTIFIER	false
+TransformerException	TYPE_IDENTIFIER	false

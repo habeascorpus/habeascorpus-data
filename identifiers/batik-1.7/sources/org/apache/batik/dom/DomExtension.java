@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+DomExtension	TYPE_IDENTIFIER	true
+getPriority	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getAuthor	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getContactAddress	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getURL	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getDescription	METHOD_IDENTIFIER	true
+registerTags	METHOD_IDENTIFIER	true
+ExtensibleDOMImplementation	TYPE_IDENTIFIER	false
+di	VARIABLE_IDENTIFIER	true

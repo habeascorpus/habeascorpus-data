@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+versioning	PACKAGE_IDENTIFIER	false
+ArtifactVersion	TYPE_IDENTIFIER	true
+Comparable	TYPE_IDENTIFIER	false
+ArtifactVersion	TYPE_IDENTIFIER	false
+getMajorVersion	METHOD_IDENTIFIER	true
+getMinorVersion	METHOD_IDENTIFIER	true
+getIncrementalVersion	METHOD_IDENTIFIER	true
+getBuildNumber	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getQualifier	METHOD_IDENTIFIER	true
+parseVersion	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+version	VARIABLE_IDENTIFIER	true

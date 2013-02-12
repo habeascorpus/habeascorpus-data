@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+spatial	PACKAGE_IDENTIFIER	false
+tier	PACKAGE_IDENTIFIER	false
+projections	PACKAGE_IDENTIFIER	false
+Deprecated	TYPE_IDENTIFIER	false
+IProjector	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+coordsAsString	METHOD_IDENTIFIER	true
+latitude	VARIABLE_IDENTIFIER	true
+longitude	VARIABLE_IDENTIFIER	true
+coords	METHOD_IDENTIFIER	true
+latitude	VARIABLE_IDENTIFIER	true
+longitude	VARIABLE_IDENTIFIER	true

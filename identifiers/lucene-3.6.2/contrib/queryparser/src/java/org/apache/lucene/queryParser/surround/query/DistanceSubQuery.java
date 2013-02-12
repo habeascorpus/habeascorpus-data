@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+queryParser	PACKAGE_IDENTIFIER	false
+surround	PACKAGE_IDENTIFIER	false
+query	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+DistanceSubQuery	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+distanceSubQueryNotAllowed	METHOD_IDENTIFIER	true
+addSpanQueries	METHOD_IDENTIFIER	true
+SpanNearClauseFactory	TYPE_IDENTIFIER	false
+sncf	VARIABLE_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false

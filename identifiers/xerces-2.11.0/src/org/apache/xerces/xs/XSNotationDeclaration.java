@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xs	PACKAGE_IDENTIFIER	false
+XSNotationDeclaration	TYPE_IDENTIFIER	true
+XSObject	TYPE_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+getSystemId	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getPublicId	METHOD_IDENTIFIER	true
+XSAnnotation	TYPE_IDENTIFIER	false
+getAnnotation	METHOD_IDENTIFIER	true
+XSObjectList	TYPE_IDENTIFIER	false
+getAnnotations	METHOD_IDENTIFIER	true

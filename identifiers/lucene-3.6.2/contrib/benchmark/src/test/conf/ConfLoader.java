@@ -1,0 +1,2 @@
+conf	PACKAGE_IDENTIFIER	false
+ConfLoader	TYPE_IDENTIFIER	true

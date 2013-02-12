@@ -1,0 +1,12 @@
+examples	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+rmi	PACKAGE_IDENTIFIER	false
+Remote	TYPE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+rmi	PACKAGE_IDENTIFIER	false
+RemoteException	TYPE_IDENTIFIER	false
+NumberCruncher	TYPE_IDENTIFIER	true
+Remote	TYPE_IDENTIFIER	false
+factor	METHOD_IDENTIFIER	true
+number	VARIABLE_IDENTIFIER	true
+RemoteException	TYPE_IDENTIFIER	false

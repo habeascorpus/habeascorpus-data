@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+facet	PACKAGE_IDENTIFIER	false
+index	PACKAGE_IDENTIFIER	false
+params	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+facet	PACKAGE_IDENTIFIER	false
+FacetException	TYPE_IDENTIFIER	false
+FacetParamsMissingPropertyException	TYPE_IDENTIFIER	true
+FacetException	TYPE_IDENTIFIER	false
+FacetParamsMissingPropertyException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+key	VARIABLE_IDENTIFIER	true
+key	VARIABLE_IDENTIFIER	false

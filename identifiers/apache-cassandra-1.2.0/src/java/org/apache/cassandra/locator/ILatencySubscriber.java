@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+locator	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+net	PACKAGE_IDENTIFIER	false
+InetAddress	TYPE_IDENTIFIER	false
+ILatencySubscriber	TYPE_IDENTIFIER	true
+receiveTiming	METHOD_IDENTIFIER	true
+InetAddress	TYPE_IDENTIFIER	false
+address	VARIABLE_IDENTIFIER	true
+latency	VARIABLE_IDENTIFIER	true

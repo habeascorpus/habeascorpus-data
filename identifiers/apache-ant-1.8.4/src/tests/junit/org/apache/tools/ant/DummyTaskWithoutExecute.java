@@ -1,0 +1,9 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+DummyTaskWithoutExecute	TYPE_IDENTIFIER	true
+DummyTaskWithoutExecute	METHOD_IDENTIFIER	false
+execute	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+dummy	VARIABLE_IDENTIFIER	true

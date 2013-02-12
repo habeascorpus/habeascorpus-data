@@ -1,0 +1,6 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+res	PACKAGE_IDENTIFIER	false
+XSLTErrorResources_en	TYPE_IDENTIFIER	true
+XSLTErrorResources	TYPE_IDENTIFIER	false

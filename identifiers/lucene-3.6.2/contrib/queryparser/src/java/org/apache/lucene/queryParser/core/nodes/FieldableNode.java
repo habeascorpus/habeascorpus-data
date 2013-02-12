@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+queryParser	PACKAGE_IDENTIFIER	false
+core	PACKAGE_IDENTIFIER	false
+nodes	PACKAGE_IDENTIFIER	false
+FieldableNode	TYPE_IDENTIFIER	true
+QueryNode	TYPE_IDENTIFIER	false
+CharSequence	TYPE_IDENTIFIER	false
+getField	METHOD_IDENTIFIER	true
+setField	METHOD_IDENTIFIER	true
+CharSequence	TYPE_IDENTIFIER	false
+fieldName	VARIABLE_IDENTIFIER	true

@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+execution	PACKAGE_IDENTIFIER	false
+MavenSession	TYPE_IDENTIFIER	false
+AbstractMavenLifecycleParticipant	TYPE_IDENTIFIER	true
+afterProjectsRead	METHOD_IDENTIFIER	true
+MavenSession	TYPE_IDENTIFIER	false
+session	VARIABLE_IDENTIFIER	true
+MavenExecutionException	TYPE_IDENTIFIER	false
+afterSessionStart	METHOD_IDENTIFIER	true
+MavenSession	TYPE_IDENTIFIER	false
+session	VARIABLE_IDENTIFIER	true
+MavenExecutionException	TYPE_IDENTIFIER	false

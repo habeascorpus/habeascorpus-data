@@ -1,0 +1,15 @@
+java	PACKAGE_IDENTIFIER	false
+rmi	PACKAGE_IDENTIFIER	false
+RemoteException	TYPE_IDENTIFIER	false
+javax	PACKAGE_IDENTIFIER	false
+ejb	UNKNOWN_IDENTIFIER	false
+EJBObject	UNKNOWN_IDENTIFIER	false
+TransformRemote	TYPE_IDENTIFIER	true
+EJBObject	UNKNOWN_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+transform	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+document	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+transletName	VARIABLE_IDENTIFIER	true
+RemoteException	TYPE_IDENTIFIER	false

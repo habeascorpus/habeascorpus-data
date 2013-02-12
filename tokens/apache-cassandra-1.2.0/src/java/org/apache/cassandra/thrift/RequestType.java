@@ -1,0 +1,17 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+cassandra	TokenNameIdentifier
+.	TokenNameDOT
+thrift	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+enum	TokenNameenum
+RequestType	TokenNameIdentifier
+{	TokenNameLBRACE
+READ	TokenNameIdentifier
+,	TokenNameCOMMA
+WRITE	TokenNameIdentifier
+}	TokenNameRBRACE

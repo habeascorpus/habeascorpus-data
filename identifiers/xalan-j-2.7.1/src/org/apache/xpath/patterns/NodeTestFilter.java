@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xpath	PACKAGE_IDENTIFIER	false
+patterns	PACKAGE_IDENTIFIER	false
+NodeTestFilter	TYPE_IDENTIFIER	true
+setNodeTest	METHOD_IDENTIFIER	true
+NodeTest	TYPE_IDENTIFIER	false
+nodeTest	VARIABLE_IDENTIFIER	true

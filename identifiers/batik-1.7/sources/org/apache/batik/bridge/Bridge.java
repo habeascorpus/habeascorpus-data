@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+Bridge	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getNamespaceURI	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getLocalName	METHOD_IDENTIFIER	true
+Bridge	TYPE_IDENTIFIER	false
+getInstance	METHOD_IDENTIFIER	true

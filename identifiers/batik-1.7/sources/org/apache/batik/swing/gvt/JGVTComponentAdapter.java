@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+swing	PACKAGE_IDENTIFIER	false
+gvt	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+awt	PACKAGE_IDENTIFIER	false
+event	PACKAGE_IDENTIFIER	false
+ComponentEvent	TYPE_IDENTIFIER	false
+JGVTComponentAdapter	TYPE_IDENTIFIER	true
+JGVTComponentListener	TYPE_IDENTIFIER	false
+componentTransformChanged	METHOD_IDENTIFIER	true
+ComponentEvent	TYPE_IDENTIFIER	false
+event	VARIABLE_IDENTIFIER	true

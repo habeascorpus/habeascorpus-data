@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+example	PACKAGE_IDENTIFIER	false
+tasks	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+taskdefs	PACKAGE_IDENTIFIER	false
+Sequential	TYPE_IDENTIFIER	false
+TaskdefTestContainerTask	TYPE_IDENTIFIER	true
+Sequential	TYPE_IDENTIFIER	false
+TaskdefTestContainerTask	METHOD_IDENTIFIER	false

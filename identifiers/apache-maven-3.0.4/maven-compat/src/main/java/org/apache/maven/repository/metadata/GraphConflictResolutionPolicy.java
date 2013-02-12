@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+repository	PACKAGE_IDENTIFIER	false
+metadata	PACKAGE_IDENTIFIER	false
+GraphConflictResolutionPolicy	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+ROLE	VARIABLE_IDENTIFIER	true
+GraphConflictResolutionPolicy	TYPE_IDENTIFIER	false
+getName	METHOD_IDENTIFIER	false
+MetadataGraphEdge	TYPE_IDENTIFIER	false
+apply	METHOD_IDENTIFIER	true
+MetadataGraphEdge	TYPE_IDENTIFIER	false
+e1	VARIABLE_IDENTIFIER	true
+MetadataGraphEdge	TYPE_IDENTIFIER	false
+e2	VARIABLE_IDENTIFIER	true

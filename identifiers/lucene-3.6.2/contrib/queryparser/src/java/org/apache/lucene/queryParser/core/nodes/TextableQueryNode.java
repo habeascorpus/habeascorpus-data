@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+queryParser	PACKAGE_IDENTIFIER	false
+core	PACKAGE_IDENTIFIER	false
+nodes	PACKAGE_IDENTIFIER	false
+TextableQueryNode	TYPE_IDENTIFIER	true
+CharSequence	TYPE_IDENTIFIER	false
+getText	METHOD_IDENTIFIER	true
+setText	METHOD_IDENTIFIER	true
+CharSequence	TYPE_IDENTIFIER	false
+text	VARIABLE_IDENTIFIER	true

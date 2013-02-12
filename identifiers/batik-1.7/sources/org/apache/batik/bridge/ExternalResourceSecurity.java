@@ -1,0 +1,6 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+bridge	PACKAGE_IDENTIFIER	false
+ExternalResourceSecurity	TYPE_IDENTIFIER	true
+checkLoadExternalResource	METHOD_IDENTIFIER	true

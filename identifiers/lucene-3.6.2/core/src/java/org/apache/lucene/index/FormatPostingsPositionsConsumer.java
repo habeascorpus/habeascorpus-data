@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+index	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+IOException	TYPE_IDENTIFIER	false
+FormatPostingsPositionsConsumer	TYPE_IDENTIFIER	true
+addPosition	METHOD_IDENTIFIER	true
+position	VARIABLE_IDENTIFIER	true
+payload	VARIABLE_IDENTIFIER	true
+payloadOffset	VARIABLE_IDENTIFIER	true
+payloadLength	VARIABLE_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false
+finish	METHOD_IDENTIFIER	true
+IOException	TYPE_IDENTIFIER	false

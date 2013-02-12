@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+processor	PACKAGE_IDENTIFIER	false
+ProcessorStylesheetDoc	TYPE_IDENTIFIER	true
+XSLTElementProcessor	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true

@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+svggen	PACKAGE_IDENTIFIER	false
+font	PACKAGE_IDENTIFIER	false
+table	PACKAGE_IDENTIFIER	false
+LookupSubtable	TYPE_IDENTIFIER	true

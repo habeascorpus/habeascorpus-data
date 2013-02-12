@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+types	PACKAGE_IDENTIFIER	false
+DTDLocation	TYPE_IDENTIFIER	true
+ResourceLocation	TYPE_IDENTIFIER	false

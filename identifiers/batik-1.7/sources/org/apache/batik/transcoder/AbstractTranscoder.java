@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+transcoder	PACKAGE_IDENTIFIER	false
+AbstractTranscoder	TYPE_IDENTIFIER	true
+TranscoderSupport	TYPE_IDENTIFIER	false
+Transcoder	TYPE_IDENTIFIER	false
+AbstractTranscoder	METHOD_IDENTIFIER	false

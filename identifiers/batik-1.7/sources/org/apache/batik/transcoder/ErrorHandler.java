@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+transcoder	PACKAGE_IDENTIFIER	false
+ErrorHandler	TYPE_IDENTIFIER	true
+error	METHOD_IDENTIFIER	true
+TranscoderException	TYPE_IDENTIFIER	false
+ex	VARIABLE_IDENTIFIER	true
+TranscoderException	TYPE_IDENTIFIER	false
+fatalError	METHOD_IDENTIFIER	true
+TranscoderException	TYPE_IDENTIFIER	false
+ex	VARIABLE_IDENTIFIER	true
+TranscoderException	TYPE_IDENTIFIER	false
+warning	METHOD_IDENTIFIER	true
+TranscoderException	TYPE_IDENTIFIER	false
+ex	VARIABLE_IDENTIFIER	true
+TranscoderException	TYPE_IDENTIFIER	false

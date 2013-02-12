@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xni	PACKAGE_IDENTIFIER	false
+grammars	PACKAGE_IDENTIFIER	false
+Grammar	TYPE_IDENTIFIER	true
+XMLGrammarDescription	TYPE_IDENTIFIER	false
+getGrammarDescription	METHOD_IDENTIFIER	true

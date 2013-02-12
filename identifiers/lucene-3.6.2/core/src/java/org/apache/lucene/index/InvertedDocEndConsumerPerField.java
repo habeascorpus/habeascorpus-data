@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+index	PACKAGE_IDENTIFIER	false
+InvertedDocEndConsumerPerField	TYPE_IDENTIFIER	true
+finish	METHOD_IDENTIFIER	true
+abort	METHOD_IDENTIFIER	true

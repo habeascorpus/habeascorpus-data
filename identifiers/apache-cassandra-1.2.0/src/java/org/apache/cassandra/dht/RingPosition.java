@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+dht	PACKAGE_IDENTIFIER	false
+RingPosition	TYPE_IDENTIFIER	true
+T	TYPE_IDENTIFIER	true
+Comparable	TYPE_IDENTIFIER	false
+T	TYPE_IDENTIFIER	false
+Token	TYPE_IDENTIFIER	false
+getToken	METHOD_IDENTIFIER	true
+isMinimum	METHOD_IDENTIFIER	true
+IPartitioner	TYPE_IDENTIFIER	false
+partitioner	VARIABLE_IDENTIFIER	true

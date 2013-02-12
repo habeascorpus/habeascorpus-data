@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+InternalErrorException	TYPE_IDENTIFIER	true
+MavenExecutionException	TYPE_IDENTIFIER	false
+InternalErrorException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+Throwable	TYPE_IDENTIFIER	false
+cause	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false
+cause	VARIABLE_IDENTIFIER	false

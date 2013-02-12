@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+apps	PACKAGE_IDENTIFIER	false
+svgbrowser	PACKAGE_IDENTIFIER	false
+UndoableCommand	TYPE_IDENTIFIER	true
+execute	METHOD_IDENTIFIER	true
+undo	METHOD_IDENTIFIER	true
+redo	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getName	METHOD_IDENTIFIER	true
+shouldExecute	METHOD_IDENTIFIER	true

@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+impl	PACKAGE_IDENTIFIER	false
+validation	PACKAGE_IDENTIFIER	false
+EntityState	TYPE_IDENTIFIER	true
+isEntityDeclared	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+name	VARIABLE_IDENTIFIER	true
+isEntityUnparsed	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+name	VARIABLE_IDENTIFIER	true

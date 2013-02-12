@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+plugin	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+Map	TYPE_IDENTIFIER	false
+ContextEnabled	TYPE_IDENTIFIER	true
+setPluginContext	METHOD_IDENTIFIER	true
+Map	TYPE_IDENTIFIER	false
+pluginContext	VARIABLE_IDENTIFIER	true
+Map	TYPE_IDENTIFIER	false
+getPluginContext	METHOD_IDENTIFIER	true

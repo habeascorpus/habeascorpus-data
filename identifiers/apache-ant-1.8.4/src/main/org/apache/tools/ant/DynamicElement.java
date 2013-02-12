@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+DynamicElement	TYPE_IDENTIFIER	true
+Object	TYPE_IDENTIFIER	false
+createDynamicElement	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+name	VARIABLE_IDENTIFIER	true
+BuildException	TYPE_IDENTIFIER	false

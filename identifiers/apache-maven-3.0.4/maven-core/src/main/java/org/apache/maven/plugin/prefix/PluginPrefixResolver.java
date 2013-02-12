@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+plugin	PACKAGE_IDENTIFIER	false
+prefix	PACKAGE_IDENTIFIER	false
+PluginPrefixResolver	TYPE_IDENTIFIER	true
+PluginPrefixResult	TYPE_IDENTIFIER	false
+resolve	METHOD_IDENTIFIER	true
+PluginPrefixRequest	TYPE_IDENTIFIER	false
+request	VARIABLE_IDENTIFIER	true
+NoPluginFoundForPrefixException	TYPE_IDENTIFIER	false

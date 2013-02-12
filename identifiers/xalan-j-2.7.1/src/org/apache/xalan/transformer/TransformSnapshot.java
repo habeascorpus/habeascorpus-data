@@ -1,0 +1,5 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+transformer	PACKAGE_IDENTIFIER	false
+TransformSnapshot	TYPE_IDENTIFIER	true

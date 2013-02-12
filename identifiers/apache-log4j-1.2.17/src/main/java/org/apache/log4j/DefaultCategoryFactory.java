@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+spi	PACKAGE_IDENTIFIER	false
+LoggerFactory	TYPE_IDENTIFIER	false
+DefaultCategoryFactory	TYPE_IDENTIFIER	true
+LoggerFactory	TYPE_IDENTIFIER	false
+DefaultCategoryFactory	METHOD_IDENTIFIER	false
+Logger	TYPE_IDENTIFIER	false
+makeNewLoggerInstance	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+name	VARIABLE_IDENTIFIER	true
+Logger	TYPE_IDENTIFIER	false
+name	VARIABLE_IDENTIFIER	false

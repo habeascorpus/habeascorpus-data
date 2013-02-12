@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+cli	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+PrintStream	TYPE_IDENTIFIER	false
+BatchModeMavenTransferListener	TYPE_IDENTIFIER	true
+AbstractMavenTransferListener	TYPE_IDENTIFIER	false
+BatchModeMavenTransferListener	METHOD_IDENTIFIER	false
+PrintStream	TYPE_IDENTIFIER	false
+out	VARIABLE_IDENTIFIER	true
+out	VARIABLE_IDENTIFIER	false

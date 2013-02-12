@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xml	PACKAGE_IDENTIFIER	false
+serializer	PACKAGE_IDENTIFIER	false
+utils	PACKAGE_IDENTIFIER	false
+Utils	TYPE_IDENTIFIER	true
+Messages	TYPE_IDENTIFIER	false
+messages	VARIABLE_IDENTIFIER	true
+Messages	TYPE_IDENTIFIER	false
+SerializerMessages	TYPE_IDENTIFIER	false
+getName	METHOD_IDENTIFIER	false

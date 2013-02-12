@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+trace	PACKAGE_IDENTIFIER	false
+TraceListenerEx	TYPE_IDENTIFIER	true
+TraceListener	TYPE_IDENTIFIER	false
+selectEnd	METHOD_IDENTIFIER	true
+EndSelectionEvent	TYPE_IDENTIFIER	false
+ev	VARIABLE_IDENTIFIER	true
+javax	PACKAGE_IDENTIFIER	false
+xml	PACKAGE_IDENTIFIER	false
+transform	PACKAGE_IDENTIFIER	false
+TransformerException	TYPE_IDENTIFIER	false

@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+dom	PACKAGE_IDENTIFIER	false
+svg	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+awt	PACKAGE_IDENTIFIER	false
+geom	PACKAGE_IDENTIFIER	false
+AffineTransform	TYPE_IDENTIFIER	false
+SVGMotionAnimatableElement	TYPE_IDENTIFIER	true
+AffineTransform	TYPE_IDENTIFIER	false
+getMotionTransform	METHOD_IDENTIFIER	true

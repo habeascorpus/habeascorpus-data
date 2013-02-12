@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+DynamicConfigurator	TYPE_IDENTIFIER	true
+DynamicAttribute	TYPE_IDENTIFIER	false
+DynamicElement	TYPE_IDENTIFIER	false

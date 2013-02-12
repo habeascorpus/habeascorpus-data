@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+Set	TYPE_IDENTIFIER	false
+ArtifactFilterManagerDelegate	TYPE_IDENTIFIER	true
+addExcludes	METHOD_IDENTIFIER	true
+Set	TYPE_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+excludes	VARIABLE_IDENTIFIER	true
+addCoreExcludes	METHOD_IDENTIFIER	true
+Set	TYPE_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+excludes	VARIABLE_IDENTIFIER	true

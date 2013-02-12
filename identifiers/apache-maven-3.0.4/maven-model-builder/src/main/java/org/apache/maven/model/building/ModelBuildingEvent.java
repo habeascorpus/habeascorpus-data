@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+model	PACKAGE_IDENTIFIER	false
+building	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+model	PACKAGE_IDENTIFIER	false
+Model	TYPE_IDENTIFIER	false
+ModelBuildingEvent	TYPE_IDENTIFIER	true
+Model	TYPE_IDENTIFIER	false
+getModel	METHOD_IDENTIFIER	true
+ModelBuildingRequest	TYPE_IDENTIFIER	false
+getRequest	METHOD_IDENTIFIER	true
+ModelProblemCollector	TYPE_IDENTIFIER	false
+getProblems	METHOD_IDENTIFIER	true

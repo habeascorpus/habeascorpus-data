@@ -1,0 +1,14 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+xerces	TokenNameIdentifier
+.	TokenNameDOT
+parsers	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+interface	TokenNameinterface
+XML11Configurable	TokenNameIdentifier
+{	TokenNameLBRACE
+}	TokenNameRBRACE

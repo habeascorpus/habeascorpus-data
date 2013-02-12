@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+scheduler	PACKAGE_IDENTIFIER	false
+Deprecated	TYPE_IDENTIFIER	false
+WeightedQueueMBean	TYPE_IDENTIFIER	true
+getOperations	METHOD_IDENTIFIER	true
+getTotalLatencyMicros	METHOD_IDENTIFIER	true
+getRecentLatencyMicros	METHOD_IDENTIFIER	true
+getTotalLatencyHistogramMicros	METHOD_IDENTIFIER	true
+getRecentLatencyHistogramMicros	METHOD_IDENTIFIER	true

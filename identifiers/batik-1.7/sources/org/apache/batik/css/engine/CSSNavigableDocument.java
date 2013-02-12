@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+css	PACKAGE_IDENTIFIER	false
+engine	PACKAGE_IDENTIFIER	false
+CSSNavigableDocument	TYPE_IDENTIFIER	true
+addCSSNavigableDocumentListener	METHOD_IDENTIFIER	true
+CSSNavigableDocumentListener	TYPE_IDENTIFIER	false
+l	VARIABLE_IDENTIFIER	true
+removeCSSNavigableDocumentListener	METHOD_IDENTIFIER	true
+CSSNavigableDocumentListener	TYPE_IDENTIFIER	false
+l	VARIABLE_IDENTIFIER	true

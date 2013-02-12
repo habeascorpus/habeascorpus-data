@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+analysis	PACKAGE_IDENTIFIER	false
+tokenattributes	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+Attribute	TYPE_IDENTIFIER	false
+PositionIncrementAttribute	TYPE_IDENTIFIER	true
+Attribute	TYPE_IDENTIFIER	false
+setPositionIncrement	METHOD_IDENTIFIER	true
+positionIncrement	VARIABLE_IDENTIFIER	true
+getPositionIncrement	METHOD_IDENTIFIER	true

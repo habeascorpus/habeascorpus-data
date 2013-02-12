@@ -1,0 +1,9 @@
+junit	PACKAGE_IDENTIFIER	false
+framework	PACKAGE_IDENTIFIER	false
+TestCase	TYPE_IDENTIFIER	false
+ExampleTest	TYPE_IDENTIFIER	true
+TestCase	TYPE_IDENTIFIER	false
+testHello	METHOD_IDENTIFIER	true
+System	TYPE_IDENTIFIER	false
+out	VARIABLE_IDENTIFIER	false
+println	METHOD_IDENTIFIER	false

@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+repository	PACKAGE_IDENTIFIER	false
+metadata	PACKAGE_IDENTIFIER	false
+MetadataUtils	TYPE_IDENTIFIER	true
+Metadata	TYPE_IDENTIFIER	false
+cloneMetadata	METHOD_IDENTIFIER	true
+Metadata	TYPE_IDENTIFIER	false
+src	VARIABLE_IDENTIFIER	true
+src	VARIABLE_IDENTIFIER	false
+src	VARIABLE_IDENTIFIER	false
+clone	METHOD_IDENTIFIER	false

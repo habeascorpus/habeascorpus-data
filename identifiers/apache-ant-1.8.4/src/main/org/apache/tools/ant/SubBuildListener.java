@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+SubBuildListener	TYPE_IDENTIFIER	true
+BuildListener	TYPE_IDENTIFIER	false
+subBuildStarted	METHOD_IDENTIFIER	true
+BuildEvent	TYPE_IDENTIFIER	false
+event	VARIABLE_IDENTIFIER	true
+subBuildFinished	METHOD_IDENTIFIER	true
+BuildEvent	TYPE_IDENTIFIER	false
+event	VARIABLE_IDENTIFIER	true

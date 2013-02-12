@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+configuration	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+io	PACKAGE_IDENTIFIER	false
+File	TYPE_IDENTIFIER	false
+BeanConfigurationPathTranslator	TYPE_IDENTIFIER	true
+File	TYPE_IDENTIFIER	false
+translatePath	METHOD_IDENTIFIER	true
+File	TYPE_IDENTIFIER	false
+path	VARIABLE_IDENTIFIER	true

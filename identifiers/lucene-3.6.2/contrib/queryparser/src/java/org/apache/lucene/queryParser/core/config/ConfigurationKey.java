@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+queryParser	PACKAGE_IDENTIFIER	false
+core	PACKAGE_IDENTIFIER	false
+config	PACKAGE_IDENTIFIER	false
+ConfigurationKey	TYPE_IDENTIFIER	true
+T	TYPE_IDENTIFIER	true
+ConfigurationKey	METHOD_IDENTIFIER	false
+T	TYPE_IDENTIFIER	true
+ConfigurationKey	TYPE_IDENTIFIER	false
+T	TYPE_IDENTIFIER	false
+newInstance	METHOD_IDENTIFIER	true
+ConfigurationKey	TYPE_IDENTIFIER	false
+T	TYPE_IDENTIFIER	false

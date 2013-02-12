@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+regexp	PACKAGE_IDENTIFIER	false
+JakartaOroMatcherTest	TYPE_IDENTIFIER	true
+RegexpMatcherTest	TYPE_IDENTIFIER	false
+RegexpMatcher	TYPE_IDENTIFIER	false
+getImplementation	METHOD_IDENTIFIER	true
+JakartaOroMatcher	TYPE_IDENTIFIER	false
+JakartaOroMatcherTest	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+name	VARIABLE_IDENTIFIER	true
+name	VARIABLE_IDENTIFIER	false

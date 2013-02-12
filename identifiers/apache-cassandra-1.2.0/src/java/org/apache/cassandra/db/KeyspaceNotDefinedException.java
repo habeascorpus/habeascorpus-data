@@ -1,0 +1,15 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+db	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+exceptions	PACKAGE_IDENTIFIER	false
+InvalidRequestException	TYPE_IDENTIFIER	false
+KeyspaceNotDefinedException	TYPE_IDENTIFIER	true
+InvalidRequestException	TYPE_IDENTIFIER	false
+KeyspaceNotDefinedException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+why	VARIABLE_IDENTIFIER	true
+why	VARIABLE_IDENTIFIER	false

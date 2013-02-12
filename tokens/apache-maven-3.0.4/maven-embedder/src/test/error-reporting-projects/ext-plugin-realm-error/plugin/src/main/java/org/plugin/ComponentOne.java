@@ -1,0 +1,14 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+plugin	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+class	TokenNameclass
+ComponentOne	TokenNameIdentifier
+{	TokenNameLBRACE
+private	TokenNameprivate
+ComponentTwo	TokenNameIdentifier
+two	TokenNameIdentifier
+;	TokenNameSEMICOLON
+}	TokenNameRBRACE

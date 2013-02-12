@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+ext	PACKAGE_IDENTIFIER	false
+awt	PACKAGE_IDENTIFIER	false
+image	PACKAGE_IDENTIFIER	false
+TransferFunction	TYPE_IDENTIFIER	true
+getLookupTable	METHOD_IDENTIFIER	true

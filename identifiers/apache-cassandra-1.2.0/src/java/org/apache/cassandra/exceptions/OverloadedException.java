@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+exceptions	PACKAGE_IDENTIFIER	false
+OverloadedException	TYPE_IDENTIFIER	true
+RequestExecutionException	TYPE_IDENTIFIER	false
+OverloadedException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+reason	VARIABLE_IDENTIFIER	true
+ExceptionCode	TYPE_IDENTIFIER	false
+OVERLOADED	VARIABLE_IDENTIFIER	false
+reason	VARIABLE_IDENTIFIER	false

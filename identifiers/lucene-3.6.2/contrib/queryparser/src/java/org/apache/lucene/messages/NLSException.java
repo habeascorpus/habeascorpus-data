@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+messages	PACKAGE_IDENTIFIER	false
+Deprecated	TYPE_IDENTIFIER	false
+NLSException	TYPE_IDENTIFIER	true
+Message	TYPE_IDENTIFIER	false
+getMessageObject	METHOD_IDENTIFIER	true

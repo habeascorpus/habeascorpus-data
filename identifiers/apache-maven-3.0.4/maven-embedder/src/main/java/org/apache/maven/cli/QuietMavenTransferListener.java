@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+cli	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+sonatype	UNKNOWN_IDENTIFIER	false
+aether	UNKNOWN_IDENTIFIER	false
+transfer	UNKNOWN_IDENTIFIER	false
+AbstractTransferListener	UNKNOWN_IDENTIFIER	false
+QuietMavenTransferListener	TYPE_IDENTIFIER	true
+AbstractTransferListener	UNKNOWN_IDENTIFIER	false

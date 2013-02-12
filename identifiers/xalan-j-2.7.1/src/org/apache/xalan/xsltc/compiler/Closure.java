@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xalan	PACKAGE_IDENTIFIER	false
+xsltc	PACKAGE_IDENTIFIER	false
+compiler	PACKAGE_IDENTIFIER	false
+Closure	TYPE_IDENTIFIER	true
+inInnerClass	METHOD_IDENTIFIER	true
+Closure	TYPE_IDENTIFIER	false
+getParentClosure	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getInnerClassName	METHOD_IDENTIFIER	true
+addVariable	METHOD_IDENTIFIER	true
+VariableRefBase	TYPE_IDENTIFIER	false
+variableRef	VARIABLE_IDENTIFIER	true

@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+search	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+rmi	PACKAGE_IDENTIFIER	false
+Remote	TYPE_IDENTIFIER	false
+Deprecated	TYPE_IDENTIFIER	false
+RMIRemoteSearchable	TYPE_IDENTIFIER	true
+Searchable	TYPE_IDENTIFIER	false
+Remote	TYPE_IDENTIFIER	false

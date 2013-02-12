@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+document	PACKAGE_IDENTIFIER	false
+LoadFirstFieldSelector	TYPE_IDENTIFIER	true
+FieldSelector	TYPE_IDENTIFIER	false
+FieldSelectorResult	TYPE_IDENTIFIER	false
+accept	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+fieldName	VARIABLE_IDENTIFIER	true
+FieldSelectorResult	TYPE_IDENTIFIER	false
+LOAD_AND_BREAK	VARIABLE_IDENTIFIER	false

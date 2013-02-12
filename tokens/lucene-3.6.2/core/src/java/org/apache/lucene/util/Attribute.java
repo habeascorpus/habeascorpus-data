@@ -1,0 +1,14 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+lucene	TokenNameIdentifier
+.	TokenNameDOT
+util	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+interface	TokenNameinterface
+Attribute	TokenNameIdentifier
+{	TokenNameLBRACE
+}	TokenNameRBRACE

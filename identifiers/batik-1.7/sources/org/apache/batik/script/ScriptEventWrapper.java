@@ -1,0 +1,7 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+script	PACKAGE_IDENTIFIER	false
+ScriptEventWrapper	TYPE_IDENTIFIER	true
+Object	TYPE_IDENTIFIER	false
+getEventObject	METHOD_IDENTIFIER	true

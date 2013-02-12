@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+repository	PACKAGE_IDENTIFIER	false
+ArtifactTransferResource	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getRepositoryUrl	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getName	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getUrl	METHOD_IDENTIFIER	true
+getContentLength	METHOD_IDENTIFIER	true
+getTransferStartTime	METHOD_IDENTIFIER	true

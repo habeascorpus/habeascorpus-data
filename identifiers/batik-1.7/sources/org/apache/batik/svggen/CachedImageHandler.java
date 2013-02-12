@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+svggen	PACKAGE_IDENTIFIER	false
+CachedImageHandler	TYPE_IDENTIFIER	true
+GenericImageHandler	TYPE_IDENTIFIER	false
+ImageCacher	TYPE_IDENTIFIER	false
+getImageCacher	METHOD_IDENTIFIER	true

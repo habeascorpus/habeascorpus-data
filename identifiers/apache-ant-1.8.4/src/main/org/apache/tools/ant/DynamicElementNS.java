@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+DynamicElementNS	TYPE_IDENTIFIER	true
+Object	TYPE_IDENTIFIER	false
+createDynamicElement	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+uri	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+localName	VARIABLE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+qName	VARIABLE_IDENTIFIER	true
+BuildException	TYPE_IDENTIFIER	false

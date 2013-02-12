@@ -1,0 +1,16 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+cassandra	TokenNameIdentifier
+.	TokenNameDOT
+io	TokenNameIdentifier
+.	TokenNameDOT
+util	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+interface	TokenNameinterface
+FileMark	TokenNameIdentifier
+{	TokenNameLBRACE
+}	TokenNameRBRACE

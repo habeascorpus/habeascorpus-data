@@ -1,0 +1,12 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+facet	PACKAGE_IDENTIFIER	false
+taxonomy	PACKAGE_IDENTIFIER	false
+InconsistentTaxonomyException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+InconsistentTaxonomyException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false
+InconsistentTaxonomyException	METHOD_IDENTIFIER	false

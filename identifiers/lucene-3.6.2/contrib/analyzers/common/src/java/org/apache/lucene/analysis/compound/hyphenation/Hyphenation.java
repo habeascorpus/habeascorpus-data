@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+analysis	PACKAGE_IDENTIFIER	false
+compound	PACKAGE_IDENTIFIER	false
+hyphenation	PACKAGE_IDENTIFIER	false
+Hyphenation	TYPE_IDENTIFIER	true
+hyphenPoints	VARIABLE_IDENTIFIER	true
+Hyphenation	METHOD_IDENTIFIER	false
+points	VARIABLE_IDENTIFIER	true
+hyphenPoints	VARIABLE_IDENTIFIER	false
+points	VARIABLE_IDENTIFIER	false
+length	METHOD_IDENTIFIER	true
+hyphenPoints	VARIABLE_IDENTIFIER	false
+length	VARIABLE_IDENTIFIER	false
+getHyphenationPoints	METHOD_IDENTIFIER	true
+hyphenPoints	VARIABLE_IDENTIFIER	false

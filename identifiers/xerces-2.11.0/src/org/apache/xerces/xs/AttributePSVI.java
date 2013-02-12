@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+xerces	PACKAGE_IDENTIFIER	false
+xs	PACKAGE_IDENTIFIER	false
+AttributePSVI	TYPE_IDENTIFIER	true
+ItemPSVI	TYPE_IDENTIFIER	false
+XSAttributeDeclaration	TYPE_IDENTIFIER	false
+getAttributeDeclaration	METHOD_IDENTIFIER	true

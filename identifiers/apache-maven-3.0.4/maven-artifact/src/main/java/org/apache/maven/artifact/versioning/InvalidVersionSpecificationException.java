@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+versioning	PACKAGE_IDENTIFIER	false
+InvalidVersionSpecificationException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+InvalidVersionSpecificationException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false

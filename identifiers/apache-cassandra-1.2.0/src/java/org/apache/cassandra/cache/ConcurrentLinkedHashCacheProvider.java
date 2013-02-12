@@ -1,0 +1,14 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+cache	PACKAGE_IDENTIFIER	false
+ConcurrentLinkedHashCacheProvider	TYPE_IDENTIFIER	true
+IRowCacheProvider	TYPE_IDENTIFIER	false
+ICache	TYPE_IDENTIFIER	false
+RowCacheKey	TYPE_IDENTIFIER	false
+IRowCacheEntry	TYPE_IDENTIFIER	false
+create	METHOD_IDENTIFIER	true
+capacity	VARIABLE_IDENTIFIER	true
+ConcurrentLinkedHashCache	TYPE_IDENTIFIER	false
+create	METHOD_IDENTIFIER	false
+capacity	VARIABLE_IDENTIFIER	false

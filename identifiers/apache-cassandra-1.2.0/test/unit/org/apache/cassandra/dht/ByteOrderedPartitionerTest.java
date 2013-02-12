@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+dht	PACKAGE_IDENTIFIER	false
+ByteOrderedPartitionerTest	TYPE_IDENTIFIER	true
+PartitionerTestCase	TYPE_IDENTIFIER	false
+BytesToken	TYPE_IDENTIFIER	false
+initPartitioner	METHOD_IDENTIFIER	true
+partitioner	VARIABLE_IDENTIFIER	false
+ByteOrderedPartitioner	TYPE_IDENTIFIER	false

@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+store	PACKAGE_IDENTIFIER	false
+AlreadyClosedException	TYPE_IDENTIFIER	true
+IllegalStateException	TYPE_IDENTIFIER	false
+AlreadyClosedException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+message	VARIABLE_IDENTIFIER	true
+message	VARIABLE_IDENTIFIER	false

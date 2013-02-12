@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="contribs/Jamie Tsao/|contribs/JimMoore/|src/main/javadoc/|contribs/CekiGulcu/|src/main/java/|tests/src/java/|contribs/ThomasFenner/|src/performance/java/" kind="src" path=""/>
+	<classpathentry kind="src" path="contribs/CekiGulcu"/>
+	<classpathentry kind="src" path="contribs/Jamie Tsao"/>
+	<classpathentry kind="src" path="contribs/JimMoore"/>
+	<classpathentry kind="src" path="contribs/ThomasFenner"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/javadoc"/>
+	<classpathentry kind="src" path="src/performance/java"/>
+	<classpathentry kind="src" path="tests/src/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

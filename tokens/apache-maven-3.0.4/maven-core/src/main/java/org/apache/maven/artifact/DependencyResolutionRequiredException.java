@@ -1,0 +1,33 @@
+package	TokenNamepackage
+org	TokenNameIdentifier
+.	TokenNameDOT
+apache	TokenNameIdentifier
+.	TokenNameDOT
+maven	TokenNameIdentifier
+.	TokenNameDOT
+artifact	TokenNameIdentifier
+;	TokenNameSEMICOLON
+public	TokenNamepublic
+class	TokenNameclass
+DependencyResolutionRequiredException	TokenNameIdentifier
+extends	TokenNameextends
+Exception	TokenNameIdentifier
+{	TokenNameLBRACE
+public	TokenNamepublic
+DependencyResolutionRequiredException	TokenNameIdentifier
+(	TokenNameLPAREN
+Artifact	TokenNameIdentifier
+artifact	TokenNameIdentifier
+)	TokenNameRPAREN
+{	TokenNameLBRACE
+super	TokenNamesuper
+(	TokenNameLPAREN
+"Attempted to access the artifact "	TokenNameStringLiteral
++	TokenNamePLUS
+artifact	TokenNameIdentifier
++	TokenNamePLUS
+"; which has not yet been resolved"	TokenNameStringLiteral
+)	TokenNameRPAREN
+;	TokenNameSEMICOLON
+}	TokenNameRBRACE
+}	TokenNameRBRACE

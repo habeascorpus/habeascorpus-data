@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+analysis	PACKAGE_IDENTIFIER	false
+tokenattributes	PACKAGE_IDENTIFIER	false
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+lucene	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+Attribute	TYPE_IDENTIFIER	false
+OffsetAttribute	TYPE_IDENTIFIER	true
+Attribute	TYPE_IDENTIFIER	false
+startOffset	METHOD_IDENTIFIER	true
+setOffset	METHOD_IDENTIFIER	true
+startOffset	VARIABLE_IDENTIFIER	true
+endOffset	VARIABLE_IDENTIFIER	true
+endOffset	METHOD_IDENTIFIER	true

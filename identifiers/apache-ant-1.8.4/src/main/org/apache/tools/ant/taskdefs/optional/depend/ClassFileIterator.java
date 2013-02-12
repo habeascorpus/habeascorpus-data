@@ -1,0 +1,10 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+tools	PACKAGE_IDENTIFIER	false
+ant	PACKAGE_IDENTIFIER	false
+taskdefs	PACKAGE_IDENTIFIER	false
+optional	PACKAGE_IDENTIFIER	false
+depend	PACKAGE_IDENTIFIER	false
+ClassFileIterator	TYPE_IDENTIFIER	true
+ClassFile	TYPE_IDENTIFIER	false
+getNextClassFile	METHOD_IDENTIFIER	true

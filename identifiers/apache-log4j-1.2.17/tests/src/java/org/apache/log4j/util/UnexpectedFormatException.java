@@ -1,0 +1,11 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+log4j	PACKAGE_IDENTIFIER	false
+util	PACKAGE_IDENTIFIER	false
+UnexpectedFormatException	TYPE_IDENTIFIER	true
+Exception	TYPE_IDENTIFIER	false
+serialVersionUID	VARIABLE_IDENTIFIER	true
+UnexpectedFormatException	METHOD_IDENTIFIER	false
+String	TYPE_IDENTIFIER	false
+msg	VARIABLE_IDENTIFIER	true
+msg	VARIABLE_IDENTIFIER	false

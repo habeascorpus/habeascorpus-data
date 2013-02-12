@@ -1,0 +1,13 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+batik	PACKAGE_IDENTIFIER	false
+ext	PACKAGE_IDENTIFIER	false
+awt	PACKAGE_IDENTIFIER	false
+geom	PACKAGE_IDENTIFIER	false
+java	PACKAGE_IDENTIFIER	false
+awt	PACKAGE_IDENTIFIER	false
+Shape	TYPE_IDENTIFIER	false
+ExtendedShape	TYPE_IDENTIFIER	true
+Shape	TYPE_IDENTIFIER	false
+ExtendedPathIterator	TYPE_IDENTIFIER	false
+getExtendedPathIterator	METHOD_IDENTIFIER	true

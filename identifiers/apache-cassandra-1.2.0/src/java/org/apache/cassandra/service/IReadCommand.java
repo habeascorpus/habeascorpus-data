@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+cassandra	PACKAGE_IDENTIFIER	false
+service	PACKAGE_IDENTIFIER	false
+IReadCommand	TYPE_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+getKeyspace	METHOD_IDENTIFIER	true
+getTimeout	METHOD_IDENTIFIER	true

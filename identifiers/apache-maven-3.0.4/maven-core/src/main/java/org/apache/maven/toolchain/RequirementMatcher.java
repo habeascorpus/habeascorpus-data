@@ -1,0 +1,8 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+toolchain	PACKAGE_IDENTIFIER	false
+RequirementMatcher	TYPE_IDENTIFIER	true
+matches	METHOD_IDENTIFIER	true
+String	TYPE_IDENTIFIER	false
+requirement	VARIABLE_IDENTIFIER	true

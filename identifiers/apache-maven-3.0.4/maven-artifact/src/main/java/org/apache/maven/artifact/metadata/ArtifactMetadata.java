@@ -1,0 +1,17 @@
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+artifact	PACKAGE_IDENTIFIER	false
+metadata	PACKAGE_IDENTIFIER	false
+Deprecated	TYPE_IDENTIFIER	false
+ArtifactMetadata	TYPE_IDENTIFIER	true
+org	PACKAGE_IDENTIFIER	false
+apache	PACKAGE_IDENTIFIER	false
+maven	PACKAGE_IDENTIFIER	false
+repository	PACKAGE_IDENTIFIER	false
+legacy	PACKAGE_IDENTIFIER	false
+metadata	PACKAGE_IDENTIFIER	false
+ArtifactMetadata	TYPE_IDENTIFIER	false
+merge	METHOD_IDENTIFIER	true
+ArtifactMetadata	TYPE_IDENTIFIER	false
+metadata	VARIABLE_IDENTIFIER	true

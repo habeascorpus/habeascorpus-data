@@ -1,0 +1,16 @@
+org	PACKAGE_IDENTIFIER	false
+example	PACKAGE_IDENTIFIER	false
+junit	PACKAGE_IDENTIFIER	false
+junit	PACKAGE_IDENTIFIER	false
+framework	PACKAGE_IDENTIFIER	false
+TestCase	TYPE_IDENTIFIER	false
+Timeout	TYPE_IDENTIFIER	true
+TestCase	TYPE_IDENTIFIER	false
+testTimeout	METHOD_IDENTIFIER	true
+InterruptedException	TYPE_IDENTIFIER	false
+Thread	TYPE_IDENTIFIER	false
+sleep	METHOD_IDENTIFIER	false
+tearDown	METHOD_IDENTIFIER	true
+System	TYPE_IDENTIFIER	false
+out	VARIABLE_IDENTIFIER	false
+println	METHOD_IDENTIFIER	false
